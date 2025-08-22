@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\web-programming\\code\\ControllerLearn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE4614A-B80B-48FC-83C6-CC857638A2FA}|ControllerLearn\\ControllerLearn.csproj|d:\\document\\web-programming\\code\\controllerlearn\\controllerlearn\\views\\product\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECE4614A-B80B-48FC-83C6-CC857638A2FA}|ControllerLearn\\ControllerLearn.csproj|solutionrelative:controllerlearn\\views\\product\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE4614A-B80B-48FC-83C6-CC857638A2FA}|ControllerLearn\\ControllerLearn.csproj|d:\\document\\web-programming\\code\\controllerlearn\\controllerlearn\\views\\product\\chi-tiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECE4614A-B80B-48FC-83C6-CC857638A2FA}|ControllerLearn\\ControllerLearn.csproj|solutionrelative:controllerlearn\\views\\product\\chi-tiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE4614A-B80B-48FC-83C6-CC857638A2FA}|ControllerLearn\\ControllerLearn.csproj|d:\\document\\web-programming\\code\\controllerlearn\\controllerlearn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECE4614A-B80B-48FC-83C6-CC857638A2FA}|ControllerLearn\\ControllerLearn.csproj|solutionrelative:controllerlearn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE4614A-B80B-48FC-83C6-CC857638A2FA}|ControllerLearn\\ControllerLearn.csproj|d:\\document\\web-programming\\code\\controllerlearn\\controllerlearn\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECE4614A-B80B-48FC-83C6-CC857638A2FA}|ControllerLearn\\ControllerLearn.csproj|solutionrelative:controllerlearn\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE4614A-B80B-48FC-83C6-CC857638A2FA}|ControllerLearn\\ControllerLearn.csproj|d:\\document\\web-programming\\code\\controllerlearn\\controllerlearn\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE4614A-B80B-48FC-83C6-CC857638A2FA}|ControllerLearn\\ControllerLearn.csproj|solutionrelative:controllerlearn\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE4614A-B80B-48FC-83C6-CC857638A2FA}|ControllerLearn\\ControllerLearn.csproj|d:\\document\\web-programming\\code\\controllerlearn\\controllerlearn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE4614A-B80B-48FC-83C6-CC857638A2FA}|ControllerLearn\\ControllerLearn.csproj|solutionrelative:controllerlearn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE4614A-B80B-48FC-83C6-CC857638A2FA}|ControllerLearn\\ControllerLearn.csproj|d:\\document\\web-programming\\code\\controllerlearn\\controllerlearn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE4614A-B80B-48FC-83C6-CC857638A2FA}|ControllerLearn\\ControllerLearn.csproj|solutionrelative:controllerlearn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chi-tiet.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\ControllerLearn\\ControllerLearn\\Views\\Product\\chi-tiet.cshtml",
+              "RelativeDocumentMoniker": "ControllerLearn\\Views\\Product\\chi-tiet.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\ControllerLearn\\ControllerLearn\\Views\\Product\\chi-tiet.cshtml",
+              "RelativeToolTip": "ControllerLearn\\Views\\Product\\chi-tiet.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T02:34:26.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\ControllerLearn\\ControllerLearn\\Views\\Product\\View.cshtml",
+              "RelativeDocumentMoniker": "ControllerLearn\\Views\\Product\\View.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\ControllerLearn\\ControllerLearn\\Views\\Product\\View.cshtml",
+              "RelativeToolTip": "ControllerLearn\\Views\\Product\\View.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T02:34:03.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\ControllerLearn\\ControllerLearn\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControllerLearn\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\ControllerLearn\\ControllerLearn\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ControllerLearn\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T02:29:14.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\ControllerLearn\\ControllerLearn\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ControllerLearn\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\ControllerLearn\\ControllerLearn\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ControllerLearn\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T02:29:13.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\ControllerLearn\\ControllerLearn\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ControllerLearn\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\ControllerLearn\\ControllerLearn\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ControllerLearn\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T02:27:28.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\ControllerLearn\\ControllerLearn\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ControllerLearn\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\ControllerLearn\\ControllerLearn\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ControllerLearn\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T02:22:11.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\ControllerLearn\\ControllerLearn\\Program.cs",
+              "RelativeDocumentMoniker": "ControllerLearn\\Program.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\ControllerLearn\\ControllerLearn\\Program.cs",
+              "RelativeToolTip": "ControllerLearn\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T02:21:31.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
