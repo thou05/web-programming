@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControllerLearn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b87b61519e24db35f0858fa294303a920f64e47d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99399e03df5f48977629e6ab28f553a5e43b1f73")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControllerLearn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControllerLearn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,17 @@
+﻿@model day05_model.Models.User
+@{
+    ViewData["Title"] = "Index3";
+    var user = Model as User;
+
+}
+
+<h1>User 1</h1>
+<p>user name: @user.name</p>
+<p>address: @user.address</p>
+<p>email: @user.email</p>
+
+<h1>User 2</h1>
+<p>user name: @Model.name</p>
+<p>address: @Model.address</p>
+<p>email: @Model.email</p>
+

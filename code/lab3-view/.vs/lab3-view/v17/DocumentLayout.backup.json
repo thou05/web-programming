@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\lab-aspnet\\lab3-view\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|d:\\document\\lab-aspnet\\lab3-view\\lab3-view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|solutionrelative:lab3-view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|d:\\document\\lab-aspnet\\lab3-view\\lab3-view\\views\\shared\\my_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|solutionrelative:lab3-view\\views\\shared\\my_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|d:\\document\\lab-aspnet\\lab3-view\\lab3-view\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|solutionrelative:lab3-view\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|d:\\document\\lab-aspnet\\lab3-view\\lab3-view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|solutionrelative:lab3-view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|d:\\document\\lab-aspnet\\lab3-view\\lab3-view\\views\\shared\\components\\book\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|solutionrelative:lab3-view\\views\\shared\\components\\book\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|d:\\document\\lab-aspnet\\lab3-view\\lab3-view\\views\\book\\popularbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|solutionrelative:lab3-view\\views\\book\\popularbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|d:\\document\\lab-aspnet\\lab3-view\\lab3-view\\viewcomponents\\bookviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|solutionrelative:lab3-view\\viewcomponents\\bookviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|d:\\document\\lab-aspnet\\lab3-view\\lab3-view\\lab3-view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|solutionrelative:lab3-view\\lab3-view.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|d:\\document\\lab-aspnet\\lab3-view\\lab3-view\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|solutionrelative:lab3-view\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|d:\\document\\lab-aspnet\\lab3-view\\lab3-view\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|solutionrelative:lab3-view\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|d:\\document\\lab-aspnet\\lab3-view\\lab3-view\\views\\shared\\banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|solutionrelative:lab3-view\\views\\shared\\banner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|d:\\document\\lab-aspnet\\lab3-view\\lab3-view\\wwwroot\\images\\products\\b2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|solutionrelative:lab3-view\\wwwroot\\images\\products\\b2.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|d:\\document\\lab-aspnet\\lab3-view\\lab3-view\\wwwroot\\images\\products\\b1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|solutionrelative:lab3-view\\wwwroot\\images\\products\\b1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|d:\\document\\lab-aspnet\\lab3-view\\lab3-view\\wwwroot\\images\\products\\b3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|solutionrelative:lab3-view\\wwwroot\\images\\products\\b3.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|d:\\document\\lab-aspnet\\lab3-view\\lab3-view\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|solutionrelative:lab3-view\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|d:\\document\\lab-aspnet\\lab3-view\\lab3-view\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|solutionrelative:lab3-view\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|d:\\document\\lab-aspnet\\lab3-view\\lab3-view\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D8654A-E0BE-4DAC-A8C6-8DBB80C445A1}|lab3-view\\lab3-view.csproj|solutionrelative:lab3-view\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "lab3-view\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "lab3-view\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T14:01:11.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "lab3-view\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "lab3-view\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T13:50:41.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "my_layout.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\Shared\\my_layout.cshtml",
+              "RelativeDocumentMoniker": "lab3-view\\Views\\Shared\\my_layout.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\Shared\\my_layout.cshtml",
+              "RelativeToolTip": "lab3-view\\Views\\Shared\\my_layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T13:37:38.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab3-view\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "lab3-view\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T11:19:52.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "RelativeDocumentMoniker": "lab3-view\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "RelativeToolTip": "lab3-view\\Views\\Shared\\Components\\Book\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T13:14:54.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PopularBook.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\Book\\PopularBook.cshtml",
+              "RelativeDocumentMoniker": "lab3-view\\Views\\Book\\PopularBook.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\Book\\PopularBook.cshtml",
+              "RelativeToolTip": "lab3-view\\Views\\Book\\PopularBook.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T11:24:07.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookViewComponent.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\ViewComponents\\BookViewComponent.cs",
+              "RelativeDocumentMoniker": "lab3-view\\ViewComponents\\BookViewComponent.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\ViewComponents\\BookViewComponent.cs",
+              "RelativeToolTip": "lab3-view\\ViewComponents\\BookViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T13:10:44.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lab3-view",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\lab3-view.csproj",
+              "RelativeDocumentMoniker": "lab3-view\\lab3-view.csproj",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\lab3-view.csproj",
+              "RelativeToolTip": "lab3-view\\lab3-view.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-04T13:09:34.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Banner.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\Shared\\Banner.cshtml",
+              "RelativeDocumentMoniker": "lab3-view\\Views\\Shared\\Banner.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\Shared\\Banner.cshtml",
+              "RelativeToolTip": "lab3-view\\Views\\Shared\\Banner.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T11:18:57.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "lab3-view\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "lab3-view\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T11:12:51.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "lab3-view\\Views\\Book\\Index.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "lab3-view\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T10:51:13.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "b2.jpg - Bitmap [350x553, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\wwwroot\\images\\products\\b2.jpg",
+              "RelativeDocumentMoniker": "lab3-view\\wwwroot\\images\\products\\b2.jpg",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\wwwroot\\images\\products\\b2.jpg - Bitmap [350x553, 24 bit, JPG]",
+              "RelativeToolTip": "lab3-view\\wwwroot\\images\\products\\b2.jpg - Bitmap [350x553, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-09-04T11:32:45.241Z",
+              "EditorCaption": " - Bitmap [350x553, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "b1.jpg - Bitmap [183x275, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\wwwroot\\images\\products\\b1.jpg",
+              "RelativeDocumentMoniker": "lab3-view\\wwwroot\\images\\products\\b1.jpg",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\wwwroot\\images\\products\\b1.jpg - Bitmap [183x275, 24 bit, JPG]",
+              "RelativeToolTip": "lab3-view\\wwwroot\\images\\products\\b1.jpg - Bitmap [183x275, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-09-04T11:32:44.163Z",
+              "EditorCaption": " - Bitmap [183x275, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "b3.jpg - Bitmap [181x278, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\wwwroot\\images\\products\\b3.jpg",
+              "RelativeDocumentMoniker": "lab3-view\\wwwroot\\images\\products\\b3.jpg",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\wwwroot\\images\\products\\b3.jpg - Bitmap [181x278, 24 bit, JPG]",
+              "RelativeToolTip": "lab3-view\\wwwroot\\images\\products\\b3.jpg - Bitmap [181x278, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-09-04T11:32:46.719Z",
+              "EditorCaption": " - Bitmap [181x278, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "lab3-view\\Views\\Book\\Create.cshtml",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "lab3-view\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-04T11:01:12.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "lab3-view\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Controllers\\BookController.cs",
+              "RelativeToolTip": "lab3-view\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T10:47:40.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "lab3-view\\Models\\Book.cs",
+              "ToolTip": "D:\\Document\\lab-aspnet\\lab3-view\\lab3-view\\Models\\Book.cs",
+              "RelativeToolTip": "lab3-view\\Models\\Book.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T10:32:34.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

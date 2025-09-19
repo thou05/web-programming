@@ -1,0 +1,16 @@
+﻿@model IEnumerable<day05_model.Models.User>
+@{
+    ViewData["Title"] = "Index4";
+    var users = Model;
+}
+
+<h1>List user v2</h1>
+@foreach (var i in users)
+{   
+   <p>
+       user name: @i.name <br />
+        address: @i.address <br />
+        email: @i.email <br />
+   </p>
+}   
+

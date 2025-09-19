@@ -1,0 +1,20 @@
+﻿@model IEnumerable<lab3_view.Models.Book>
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<div class="row">
+    @foreach(var item in Model)
+    {
+        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+            <div class="img-thumbnail">
+                <img src="@item.Image" alt="" width="150"/>
+           
+                <div class="carousel-caption">
+                    <h3>@item.Title</h3>
+                    <p>Price: @item.Price $</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

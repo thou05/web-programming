@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\web-programming\\code\\day04-layout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|d:\\document\\web-programming\\code\\day04-layout\\day04-layout\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|solutionrelative:day04-layout\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|d:\\document\\web-programming\\code\\day04-layout\\day04-layout\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|solutionrelative:day04-layout\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|d:\\document\\web-programming\\code\\day04-layout\\day04-layout\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|solutionrelative:day04-layout\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|d:\\document\\web-programming\\code\\day04-layout\\day04-layout\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|solutionrelative:day04-layout\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|d:\\document\\web-programming\\code\\day04-layout\\day04-layout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|solutionrelative:day04-layout\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|d:\\document\\web-programming\\code\\day04-layout\\day04-layout\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|solutionrelative:day04-layout\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|d:\\document\\web-programming\\code\\day04-layout\\day04-layout\\views\\shared\\_leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|solutionrelative:day04-layout\\views\\shared\\_leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|d:\\document\\web-programming\\code\\day04-layout\\day04-layout\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|solutionrelative:day04-layout\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|d:\\document\\web-programming\\code\\day04-layout\\day04-layout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|solutionrelative:day04-layout\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|d:\\document\\web-programming\\code\\day04-layout\\day04-layout\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|solutionrelative:day04-layout\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|d:\\document\\web-programming\\code\\day04-layout\\day04-layout\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868A5F96-9163-493E-9DC3-9BE9073A400B}|day04-layout\\day04-layout.csproj|solutionrelative:day04-layout\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "day04-layout\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "day04-layout\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-12T02:09:02.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LeftMenu.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Views\\Shared\\_LeftMenu.cshtml",
+              "RelativeDocumentMoniker": "day04-layout\\Views\\Shared\\_LeftMenu.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Views\\Shared\\_LeftMenu.cshtml",
+              "RelativeToolTip": "day04-layout\\Views\\Shared\\_LeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-12T01:52:29.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "day04-layout\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "day04-layout\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-12T01:19:19.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "day04-layout\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "day04-layout\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-12T01:19:12.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "day04-layout\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "day04-layout\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-12T01:19:09.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "day04-layout\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "day04-layout\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-12T01:19:07.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "day04-layout\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "day04-layout\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-12T01:23:36.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "day04-layout\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "day04-layout\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-12T01:18:51.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "day04-layout\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "day04-layout\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T02:39:14.328Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "day04-layout\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "day04-layout\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T01:21:44.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "day04-layout\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day04-layout\\day04-layout\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "day04-layout\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-12T02:07:15.789Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

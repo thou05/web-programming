@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\web-programming\\hand-on\\day02-controller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45B47A80-E6DE-453E-8918-AD95FD219BAC}|day02-controller\\day02-controller.csproj|d:\\document\\web-programming\\hand-on\\day02-controller\\day02-controller\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B47A80-E6DE-453E-8918-AD95FD219BAC}|day02-controller\\day02-controller.csproj|solutionrelative:day02-controller\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B47A80-E6DE-453E-8918-AD95FD219BAC}|day02-controller\\day02-controller.csproj|d:\\document\\web-programming\\hand-on\\day02-controller\\day02-controller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B47A80-E6DE-453E-8918-AD95FD219BAC}|day02-controller\\day02-controller.csproj|solutionrelative:day02-controller\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B47A80-E6DE-453E-8918-AD95FD219BAC}|day02-controller\\day02-controller.csproj|d:\\document\\web-programming\\hand-on\\day02-controller\\day02-controller\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45B47A80-E6DE-453E-8918-AD95FD219BAC}|day02-controller\\day02-controller.csproj|solutionrelative:day02-controller\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B47A80-E6DE-453E-8918-AD95FD219BAC}|day02-controller\\day02-controller.csproj|d:\\document\\web-programming\\hand-on\\day02-controller\\day02-controller\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45B47A80-E6DE-453E-8918-AD95FD219BAC}|day02-controller\\day02-controller.csproj|solutionrelative:day02-controller\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B47A80-E6DE-453E-8918-AD95FD219BAC}|day02-controller\\day02-controller.csproj|d:\\document\\web-programming\\hand-on\\day02-controller\\day02-controller\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45B47A80-E6DE-453E-8918-AD95FD219BAC}|day02-controller\\day02-controller.csproj|solutionrelative:day02-controller\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B47A80-E6DE-453E-8918-AD95FD219BAC}|day02-controller\\day02-controller.csproj|d:\\document\\web-programming\\hand-on\\day02-controller\\day02-controller\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B47A80-E6DE-453E-8918-AD95FD219BAC}|day02-controller\\day02-controller.csproj|solutionrelative:day02-controller\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B47A80-E6DE-453E-8918-AD95FD219BAC}|day02-controller\\day02-controller.csproj|d:\\document\\web-programming\\hand-on\\day02-controller\\day02-controller\\views\\product\\sample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45B47A80-E6DE-453E-8918-AD95FD219BAC}|day02-controller\\day02-controller.csproj|solutionrelative:day02-controller\\views\\product\\sample.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\hand-on\\day02-controller\\day02-controller\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "day02-controller\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\hand-on\\day02-controller\\day02-controller\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "day02-controller\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T14:50:38.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\hand-on\\day02-controller\\day02-controller\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "day02-controller\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\hand-on\\day02-controller\\day02-controller\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "day02-controller\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T15:25:13.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\hand-on\\day02-controller\\day02-controller\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "day02-controller\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Document\\web-programming\\hand-on\\day02-controller\\day02-controller\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "day02-controller\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:38:10.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\hand-on\\day02-controller\\day02-controller\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "day02-controller\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Document\\web-programming\\hand-on\\day02-controller\\day02-controller\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "day02-controller\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:38:29.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\hand-on\\day02-controller\\day02-controller\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "day02-controller\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\hand-on\\day02-controller\\day02-controller\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "day02-controller\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T14:55:30.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\hand-on\\day02-controller\\day02-controller\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "day02-controller\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Document\\web-programming\\hand-on\\day02-controller\\day02-controller\\Controllers\\UserController.cs",
+              "RelativeToolTip": "day02-controller\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:38:04.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sample.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\hand-on\\day02-controller\\day02-controller\\Views\\Product\\Sample.cshtml",
+              "RelativeDocumentMoniker": "day02-controller\\Views\\Product\\Sample.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\hand-on\\day02-controller\\day02-controller\\Views\\Product\\Sample.cshtml",
+              "RelativeToolTip": "day02-controller\\Views\\Product\\Sample.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T14:58:41.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
