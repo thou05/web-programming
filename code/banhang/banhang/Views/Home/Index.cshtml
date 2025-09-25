@@ -1,0 +1,25 @@
+﻿@using X.PagedList.Mvc.Core
+@model X.PagedList.IPagedList<TDanhMucSp>
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutOgani.cshtml";
+}
+
+@* <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div> *@
+
+@foreach(var item in Model)
+{
+    @await Html.PartialAsync("_SanPham", item)
+}
+
+<div class="product__pagination">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
+    @* <a href="#">1</a>
+    <a href="#">2</a>
+    <a href="#">3</a>
+    <a href="#"><i class="fa fa-long-arrow-right"></i></a> *@
+</div>
+

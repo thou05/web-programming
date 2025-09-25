@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\web-programming\\code\\banhang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|d:\\document\\web-programming\\code\\banhang\\banhang\\views\\shared\\_sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|solutionrelative:banhang\\views\\shared\\_sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|d:\\document\\web-programming\\code\\banhang\\banhang\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|solutionrelative:banhang\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|d:\\document\\web-programming\\code\\banhang\\banhang\\views\\home\\chitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|solutionrelative:banhang\\views\\home\\chitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|d:\\document\\web-programming\\code\\banhang\\banhang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|solutionrelative:banhang\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|d:\\document\\web-programming\\code\\banhang\\banhang\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|solutionrelative:banhang\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|d:\\document\\web-programming\\code\\banhang\\banhang\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|solutionrelative:banhang\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|d:\\document\\web-programming\\code\\banhang\\banhang\\views\\shared\\components\\loaispmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|solutionrelative:banhang\\views\\shared\\components\\loaispmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|d:\\document\\web-programming\\code\\banhang\\banhang\\views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|solutionrelative:banhang\\views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|d:\\document\\web-programming\\code\\banhang\\banhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|solutionrelative:banhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|d:\\document\\web-programming\\code\\banhang\\banhang\\models\\qlbanvalicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|solutionrelative:banhang\\models\\qlbanvalicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|d:\\document\\web-programming\\code\\banhang\\banhang\\viewcomponents\\loaispmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|solutionrelative:banhang\\viewcomponents\\loaispmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|d:\\document\\web-programming\\code\\banhang\\banhang\\repository\\loaisprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|solutionrelative:banhang\\repository\\loaisprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|d:\\document\\web-programming\\code\\banhang\\banhang\\repository\\iloadsprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|solutionrelative:banhang\\repository\\iloadsprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|d:\\document\\web-programming\\code\\banhang\\banhang\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|solutionrelative:banhang\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|d:\\document\\web-programming\\code\\banhang\\banhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|solutionrelative:banhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|d:\\document\\web-programming\\code\\banhang\\banhang\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80141688-4A3C-4BFD-902F-37F6C468D389}|banhang\\banhang.csproj|solutionrelative:banhang\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_SanPham.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Shared\\_SanPham.cshtml",
+              "RelativeDocumentMoniker": "banhang\\Views\\Shared\\_SanPham.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Shared\\_SanPham.cshtml",
+              "RelativeToolTip": "banhang\\Views\\Shared\\_SanPham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T05:28:41.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "banhang\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "banhang\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T03:13:57.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChiTietSanPham.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Home\\ChiTietSanPham.cshtml",
+              "RelativeDocumentMoniker": "banhang\\Views\\Home\\ChiTietSanPham.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Home\\ChiTietSanPham.cshtml",
+              "RelativeToolTip": "banhang\\Views\\Home\\ChiTietSanPham.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T05:03:53.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPhamTheoLoai.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "RelativeDocumentMoniker": "banhang\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "RelativeToolTip": "banhang\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:39:36.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "banhang\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "banhang\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wC8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T04:41:11.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "banhang\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "banhang\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T04:29:03.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "banhang\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "RelativeToolTip": "banhang\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:22:49.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LayoutOgani.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Shared\\_LayoutOgani.cshtml",
+              "RelativeDocumentMoniker": "banhang\\Views\\Shared\\_LayoutOgani.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Shared\\_LayoutOgani.cshtml",
+              "RelativeToolTip": "banhang\\Views\\Shared\\_LayoutOgani.cshtml",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAAANMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T03:02:59.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Program.cs",
+              "RelativeDocumentMoniker": "banhang\\Program.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Program.cs",
+              "RelativeToolTip": "banhang\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T03:29:28.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QlbanVaLiContext.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Models\\QlbanVaLiContext.cs",
+              "RelativeDocumentMoniker": "banhang\\Models\\QlbanVaLiContext.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Models\\QlbanVaLiContext.cs",
+              "RelativeToolTip": "banhang\\Models\\QlbanVaLiContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T04:40:15.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoaiSpMenuViewComponent.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhang\\banhang\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "banhang\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhang\\banhang\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "RelativeToolTip": "banhang\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T03:13:43.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoaiSpRepo.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Repository\\LoaiSpRepo.cs",
+              "RelativeDocumentMoniker": "banhang\\Repository\\LoaiSpRepo.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Repository\\LoaiSpRepo.cs",
+              "RelativeToolTip": "banhang\\Repository\\LoaiSpRepo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T03:09:13.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILoadSpRepo.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Repository\\ILoadSpRepo.cs",
+              "RelativeDocumentMoniker": "banhang\\Repository\\ILoadSpRepo.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Repository\\ILoadSpRepo.cs",
+              "RelativeToolTip": "banhang\\Repository\\ILoadSpRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T03:05:40.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "banhang\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "banhang\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T00:52:05.552Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "banhang\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "banhang\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T02:40:41.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "banhang\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhang\\banhang\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "banhang\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T02:40:32.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
