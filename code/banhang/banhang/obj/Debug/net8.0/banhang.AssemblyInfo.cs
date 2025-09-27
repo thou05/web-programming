@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("banhang")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d54f40df55a285cc22189b7cf6cce70c2162dcb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7926a3466095f502b8db43d9eac224a4d5b985ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("banhang")]
 [assembly: System.Reflection.AssemblyTitleAttribute("banhang")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,5 @@
 using banhang.Models;
+using banhang.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
@@ -49,6 +50,20 @@ namespace banhang.Controllers
             return View(sp);
 
         }
+
+        public IActionResult ProductDetail(string masp)
+        {
+            var sp = db.TDanhMucSps.SingleOrDefault(x => x.MaSp == masp);
+            var anhSp = db.TAnhSps.Where(x => x.MaSp == masp).ToList();
+
+            var homeProductDetailViewModel = new HomeProductDetailViewModel
+            {
+                danhMucSp = sp,
+                anhSps = anhSp
+            };
+            return View(homeProductDetailViewModel);
+        }
+
 
 
         public IActionResult Privacy()

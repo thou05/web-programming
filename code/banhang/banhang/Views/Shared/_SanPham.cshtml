@@ -10,8 +10,13 @@
             </ul>
         </div>
         <div class="featured__item__text">
-            <h6>
+            @* <h6>
                 <a asp-controller="Home" asp-action="ChiTietSanPham" asp-route-masp="@Model.MaSp">
+                    @Model.TenSp
+                </a>
+            </h6> *@
+            <h6>
+                <a asp-controller="Home" asp-action="ProductDetail" asp-route-masp="@Model.MaSp">
                     @Model.TenSp
                 </a>
             </h6>
