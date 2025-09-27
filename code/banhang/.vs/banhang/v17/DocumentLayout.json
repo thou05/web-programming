@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,6 +83,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Document",
@@ -107,8 +111,7 @@
               "RelativeToolTip": "banhang\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T03:13:57.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T03:13:57.997Z"
             },
             {
               "$type": "Document",
@@ -120,8 +123,7 @@
               "RelativeToolTip": "banhang\\Views\\Home\\ChiTietSanPham.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T05:03:53.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T05:03:53.89Z"
             },
             {
               "$type": "Document",
@@ -133,8 +135,7 @@
               "RelativeToolTip": "banhang\\Views\\Home\\SanPhamTheoLoai.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T03:39:36.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T03:39:36.321Z"
             },
             {
               "$type": "Document",
@@ -146,8 +147,7 @@
               "RelativeToolTip": "banhang\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAA1wC8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T04:41:11.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T04:41:11.701Z"
             },
             {
               "$type": "Document",
@@ -159,8 +159,7 @@
               "RelativeToolTip": "banhang\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T04:29:03.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T04:29:03.328Z"
             },
             {
               "$type": "Document",
@@ -172,8 +171,7 @@
               "RelativeToolTip": "banhang\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T03:22:49.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T03:22:49.074Z"
             },
             {
               "$type": "Document",
@@ -185,8 +183,7 @@
               "RelativeToolTip": "banhang\\Views\\Shared\\_LayoutOgani.cshtml",
               "ViewState": "AgIAAKkAAAAAAAAAAAAAANMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T03:02:59.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T03:02:59.171Z"
             },
             {
               "$type": "Document",
@@ -198,8 +195,7 @@
               "RelativeToolTip": "banhang\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T03:29:28.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T03:29:28.41Z"
             },
             {
               "$type": "Document",
@@ -211,8 +207,7 @@
               "RelativeToolTip": "banhang\\Models\\QlbanVaLiContext.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAwwDIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T04:40:15.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T04:40:15.661Z"
             },
             {
               "$type": "Document",
@@ -224,8 +219,7 @@
               "RelativeToolTip": "banhang\\ViewComponents\\LoaiSpMenuViewComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T03:13:43.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T03:13:43.755Z"
             },
             {
               "$type": "Document",
@@ -237,8 +231,7 @@
               "RelativeToolTip": "banhang\\Repository\\LoaiSpRepo.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowCcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T03:09:13.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T03:09:13.38Z"
             },
             {
               "$type": "Document",
@@ -250,8 +243,7 @@
               "RelativeToolTip": "banhang\\Repository\\ILoadSpRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T03:05:40.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T03:05:40.286Z"
             },
             {
               "$type": "Document",
@@ -264,10 +256,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-23T00:52:05.552Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Document",

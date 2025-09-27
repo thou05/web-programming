@@ -1,0 +1,16 @@
+﻿@model day06_annotation.Models.User
+@{
+    ViewData["Title"] = "UserManualValid";
+}
+
+<h1>UserManualValid</h1>
+
+<form asp-action="UserManualValid" method="post" asp-controller="User">
+    <div>
+        <label>Password</label>
+        <input type="password" name="Password" value=""/>
+        <span class="text-danger"></span>
+    </div>
+    <input type="submit" value="check" />
+</form>
+

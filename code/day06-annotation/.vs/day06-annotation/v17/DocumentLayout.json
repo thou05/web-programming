@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\web-programming\\code\\day06-annotation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74AE08AB-9F8C-42A6-AEC5-0567960599AB}|day06-annotation\\day06-annotation.csproj|d:\\document\\web-programming\\code\\day06-annotation\\day06-annotation\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AE08AB-9F8C-42A6-AEC5-0567960599AB}|day06-annotation\\day06-annotation.csproj|solutionrelative:day06-annotation\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AE08AB-9F8C-42A6-AEC5-0567960599AB}|day06-annotation\\day06-annotation.csproj|d:\\document\\web-programming\\code\\day06-annotation\\day06-annotation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AE08AB-9F8C-42A6-AEC5-0567960599AB}|day06-annotation\\day06-annotation.csproj|solutionrelative:day06-annotation\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AE08AB-9F8C-42A6-AEC5-0567960599AB}|day06-annotation\\day06-annotation.csproj|d:\\document\\web-programming\\code\\day06-annotation\\day06-annotation\\views\\user\\userannotation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74AE08AB-9F8C-42A6-AEC5-0567960599AB}|day06-annotation\\day06-annotation.csproj|solutionrelative:day06-annotation\\views\\user\\userannotation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AE08AB-9F8C-42A6-AEC5-0567960599AB}|day06-annotation\\day06-annotation.csproj|d:\\document\\web-programming\\code\\day06-annotation\\day06-annotation\\views\\user\\usermanualvalid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74AE08AB-9F8C-42A6-AEC5-0567960599AB}|day06-annotation\\day06-annotation.csproj|solutionrelative:day06-annotation\\views\\user\\usermanualvalid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AE08AB-9F8C-42A6-AEC5-0567960599AB}|day06-annotation\\day06-annotation.csproj|d:\\document\\web-programming\\code\\day06-annotation\\day06-annotation\\views\\user\\usermanualvalidother.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74AE08AB-9F8C-42A6-AEC5-0567960599AB}|day06-annotation\\day06-annotation.csproj|solutionrelative:day06-annotation\\views\\user\\usermanualvalidother.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AE08AB-9F8C-42A6-AEC5-0567960599AB}|day06-annotation\\day06-annotation.csproj|d:\\document\\web-programming\\code\\day06-annotation\\day06-annotation\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74AE08AB-9F8C-42A6-AEC5-0567960599AB}|day06-annotation\\day06-annotation.csproj|solutionrelative:day06-annotation\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AE08AB-9F8C-42A6-AEC5-0567960599AB}|day06-annotation\\day06-annotation.csproj|d:\\document\\web-programming\\code\\day06-annotation\\day06-annotation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AE08AB-9F8C-42A6-AEC5-0567960599AB}|day06-annotation\\day06-annotation.csproj|solutionrelative:day06-annotation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAnnotation.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day06-annotation\\day06-annotation\\Views\\User\\UserAnnotation.cshtml",
+              "RelativeDocumentMoniker": "day06-annotation\\Views\\User\\UserAnnotation.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day06-annotation\\day06-annotation\\Views\\User\\UserAnnotation.cshtml",
+              "RelativeToolTip": "day06-annotation\\Views\\User\\UserAnnotation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T01:42:27.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserManualValid.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day06-annotation\\day06-annotation\\Views\\User\\UserManualValid.cshtml",
+              "RelativeDocumentMoniker": "day06-annotation\\Views\\User\\UserManualValid.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day06-annotation\\day06-annotation\\Views\\User\\UserManualValid.cshtml",
+              "RelativeToolTip": "day06-annotation\\Views\\User\\UserManualValid.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T01:25:33.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day06-annotation\\day06-annotation\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "day06-annotation\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day06-annotation\\day06-annotation\\Controllers\\UserController.cs",
+              "RelativeToolTip": "day06-annotation\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T01:21:56.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day06-annotation\\day06-annotation\\Models\\User.cs",
+              "RelativeDocumentMoniker": "day06-annotation\\Models\\User.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day06-annotation\\day06-annotation\\Models\\User.cs",
+              "RelativeToolTip": "day06-annotation\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T01:18:55.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserManualValidOther.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day06-annotation\\day06-annotation\\Views\\User\\UserManualValidOther.cshtml",
+              "RelativeDocumentMoniker": "day06-annotation\\Views\\User\\UserManualValidOther.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day06-annotation\\day06-annotation\\Views\\User\\UserManualValidOther.cshtml",
+              "RelativeToolTip": "day06-annotation\\Views\\User\\UserManualValidOther.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T01:38:55.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day06-annotation\\day06-annotation\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "day06-annotation\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day06-annotation\\day06-annotation\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "day06-annotation\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T01:42:41.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day06-annotation\\day06-annotation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "day06-annotation\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day06-annotation\\day06-annotation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "day06-annotation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T01:17:43.99Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
