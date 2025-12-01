@@ -1,0 +1,19 @@
+﻿
+
+@model IEnumerable<LeThiThao_231230910.Models.LoaiHang>
+
+<ul>
+    <li class="active"><a href="/">Le Thi Thao</a></li>
+
+    @foreach (var item in Model)
+    {
+        <li>
+            <a href="#" class="ajax-link" data-id="@item.MaLoai">
+                @item.TenLoai
+            </a>
+        </li>
+    }
+
+    <div class="clear"></div>
+</ul>
+

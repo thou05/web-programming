@@ -10,7 +10,7 @@ Scaffold-DbContext "Server=LAPTOP-VNJ8Q8JU\THOU;Database=SchoolDB;Trusted_Connec
 ```
 
 ```
-Scaffold-DbContext "Server=LAPTOP-VNJ8Q8JU\THOU;Database=WebDB;User Id=sa;Password=thou;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+Scaffold-DbContext "Server=LAPTOP-VNJ8Q8JU\THOU;Database=QLHangHoa;User Id=sa;Password=thou;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
 
 ```
 

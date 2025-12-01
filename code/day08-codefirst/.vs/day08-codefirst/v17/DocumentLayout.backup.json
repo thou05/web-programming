@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\web-programming\\code\\day08-codefirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|d:\\document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|solutionrelative:day08-codefirst\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|d:\\document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|solutionrelative:day08-codefirst\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|d:\\document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|solutionrelative:day08-codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Migrations\\20251008104947_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:day08-codefirst\\Migrations\\20251008104947_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|d:\\document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|solutionrelative:day08-codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|d:\\document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\models\\lab08cfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|solutionrelative:day08-codefirst\\models\\lab08cfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|d:\\document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|solutionrelative:day08-codefirst\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|d:\\document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|solutionrelative:day08-codefirst\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|d:\\document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|solutionrelative:day08-codefirst\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|d:\\document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|solutionrelative:day08-codefirst\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|d:\\document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7DFECD-DCDE-4AC1-B4DF-9399A41A877C}|day08-codefirst\\day08-codefirst.csproj|solutionrelative:day08-codefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "day08-codefirst\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "day08-codefirst\\Areas\\Admin\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:08:58.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "day08-codefirst\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "day08-codefirst\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAuwH8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:07:00.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lab08CfContext.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Models\\Lab08CfContext.cs",
+              "RelativeDocumentMoniker": "day08-codefirst\\Models\\Lab08CfContext.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Models\\Lab08CfContext.cs",
+              "RelativeToolTip": "day08-codefirst\\Models\\Lab08CfContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:03:57.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "day08-codefirst\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "day08-codefirst\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:36:27.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Program.cs",
+              "RelativeDocumentMoniker": "day08-codefirst\\Program.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Program.cs",
+              "RelativeToolTip": "day08-codefirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:07:11.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\appsettings.json",
+              "RelativeDocumentMoniker": "day08-codefirst\\appsettings.json",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\appsettings.json",
+              "RelativeToolTip": "day08-codefirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T09:04:33.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "day08-codefirst\\Models\\Category.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Models\\Category.cs",
+              "RelativeToolTip": "day08-codefirst\\Models\\Category.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:58:28.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "day08-codefirst\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "day08-codefirst\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-08T09:24:19.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "day08-codefirst\\Models\\Product.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Models\\Product.cs",
+              "RelativeToolTip": "day08-codefirst\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:59:50.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "day08-codefirst\\Models\\Customer.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Models\\Customer.cs",
+              "RelativeToolTip": "day08-codefirst\\Models\\Customer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:18:38.688Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20251008104947_v1.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Migrations\\20251008104947_v1.cs",
+              "RelativeDocumentMoniker": "day08-codefirst\\Migrations\\20251008104947_v1.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\day08-codefirst\\day08-codefirst\\Migrations\\20251008104947_v1.cs",
+              "RelativeToolTip": "day08-codefirst\\Migrations\\20251008104947_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:49:47.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

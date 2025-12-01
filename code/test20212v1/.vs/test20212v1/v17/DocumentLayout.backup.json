@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\web-programming\\code\\test20212v1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\views\\shared\\lethithao_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\views\\shared\\lethithao_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\views\\shared\\lethithao_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\views\\shared\\lethithao_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\test20212v1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\test20212v1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\views\\shared\\lethithao_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\views\\shared\\lethithao_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\models\\onlineshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\models\\onlineshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "test20212v1",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\test20212v1.csproj",
+              "RelativeDocumentMoniker": "test20212v1\\test20212v1.csproj",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\test20212v1.csproj",
+              "RelativeToolTip": "test20212v1\\test20212v1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-01T09:21:01.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "test20212v1\\appsettings.Development.json",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\appsettings.Development.json",
+              "RelativeToolTip": "test20212v1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T09:20:26.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "test20212v1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "test20212v1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T09:20:09.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Program.cs",
+              "RelativeDocumentMoniker": "test20212v1\\Program.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Program.cs",
+              "RelativeToolTip": "test20212v1\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T07:38:56.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\appsettings.json",
+              "RelativeDocumentMoniker": "test20212v1\\appsettings.json",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\appsettings.json",
+              "RelativeToolTip": "test20212v1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T07:38:58.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeThiThao_Layout.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Shared\\LeThiThao_Layout.cshtml",
+              "RelativeDocumentMoniker": "test20212v1\\Views\\Shared\\LeThiThao_Layout.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Shared\\LeThiThao_Layout.cshtml",
+              "RelativeToolTip": "test20212v1\\Views\\Shared\\LeThiThao_Layout.cshtml",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAswMwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T07:24:36.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeThiThao_Header.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Shared\\LeThiThao_Header.cshtml",
+              "RelativeDocumentMoniker": "test20212v1\\Views\\Shared\\LeThiThao_Header.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Shared\\LeThiThao_Header.cshtml",
+              "RelativeToolTip": "test20212v1\\Views\\Shared\\LeThiThao_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T07:25:45.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "test20212v1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "test20212v1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAALMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T07:32:49.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "test20212v1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "test20212v1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwFAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T07:43:05.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "test20212v1\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "test20212v1\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T08:54:12.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "test20212v1\\Models\\Customer.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\Customer.cs",
+              "RelativeToolTip": "test20212v1\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:50:15.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "test20212v1\\Models\\Order.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\Order.cs",
+              "RelativeToolTip": "test20212v1\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:59:12.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "test20212v1\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "test20212v1\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:59:33.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "test20212v1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "test20212v1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T08:20:32.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "test20212v1\\Models\\Product.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\Product.cs",
+              "RelativeToolTip": "test20212v1\\Models\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:03:37.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LeThiThao_Footer.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Shared\\LeThiThao_Footer.cshtml",
+              "RelativeDocumentMoniker": "test20212v1\\Views\\Shared\\LeThiThao_Footer.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Shared\\LeThiThao_Footer.cshtml",
+              "RelativeToolTip": "test20212v1\\Views\\Shared\\LeThiThao_Footer.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T07:28:54.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "test20212v1\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "test20212v1\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T08:54:15.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "test20212v1\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "test20212v1\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:50:57.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "test20212v1\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "test20212v1\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T08:51:31.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "test20212v1\\Views\\Customers\\Edit.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "test20212v1\\Views\\Customers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T08:51:30.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OnlineShopContext.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\OnlineShopContext.cs",
+              "RelativeDocumentMoniker": "test20212v1\\Models\\OnlineShopContext.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\OnlineShopContext.cs",
+              "RelativeToolTip": "test20212v1\\Models\\OnlineShopContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAhwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T07:38:49.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "test20212v1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "test20212v1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T07:24:29.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1038,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

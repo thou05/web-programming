@@ -1,0 +1,869 @@
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\appsettings.Development.json
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\appsettings.json
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.staticwebassets.runtime.json
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.staticwebassets.endpoints.json
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.exe
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.deps.json
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.runtimeconfig.json
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.pdb
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Azure.Core.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Azure.Identity.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Humanizer.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.ClientModel.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.CodeDom.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Memory.Data.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Text.Json.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\X.PagedList.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.csproj.AssemblyReference.cache
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.GeneratedMSBuildEditorConfig.editorconfig
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.AssemblyInfoInputs.cache
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.AssemblyInfo.cs
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.csproj.CoreCompileInputs.cache
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.MvcApplicationPartsAssemblyInfo.cs
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.MvcApplicationPartsAssemblyInfo.cache
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.RazorAssemblyInfo.cache
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.RazorAssemblyInfo.cs
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\scopedcss\bundle\NguyenVanKiet_N04_221230890.styles.css
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\scopedcss\projectbundle\NguyenVanKiet_N04_221230890.bundle.scp.css
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets.build.json
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets.development.json
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets\msbuild.NguyenVanKiet_N04_221230890.Microsoft.AspNetCore.StaticWebAssets.props
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets\msbuild.NguyenVanKiet_N04_221230890.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets\msbuild.build.NguyenVanKiet_N04_221230890.props
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NguyenVanKiet_N04_221230890.props
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NguyenVanKiet_N04_221230890.props
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets.pack.json
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVa.9D25772A.Up2Date
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\refint\NguyenVanKiet_N04_221230890.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.pdb
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.genruntimeconfig.cache
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\ref\NguyenVanKiet_N04_221230890.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Build.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.Common.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\lap-trinh-web\ThiCuoiKy\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\appsettings.json
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.staticwebassets.runtime.json
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.exe
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.deps.json
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.runtimeconfig.json
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.pdb
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Humanizer.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\X.PagedList.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.csproj.AssemblyReference.cache
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.AssemblyInfoInputs.cache
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.AssemblyInfo.cs
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.csproj.CoreCompileInputs.cache
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.RazorAssemblyInfo.cache
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.RazorAssemblyInfo.cs
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets\msbuild.NguyenVanKiet_N04_221230890.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets\msbuild.build.NguyenVanKiet_N04_221230890.props
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NguyenVanKiet_N04_221230890.props
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NguyenVanKiet_N04_221230890.props
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\scopedcss\bundle\NguyenVanKiet_N04_221230890.styles.css
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\scopedcss\projectbundle\NguyenVanKiet_N04_221230890.bundle.scp.css
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVa.9D25772A.Up2Date
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\refint\NguyenVanKiet_N04_221230890.dll
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.pdb
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.genruntimeconfig.cache
+C:\Users\MODERN14\OneDrive - University of Transport and Communications\Kì_5\LapTrinhWeb\OnThi\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\ref\NguyenVanKiet_N04_221230890.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\appsettings.Development.json
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\appsettings.json
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.staticwebassets.runtime.json
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.staticwebassets.endpoints.json
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.exe
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.deps.json
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.runtimeconfig.json
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NguyenVanKiet_N04_221230890.pdb
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Azure.Core.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Azure.Identity.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Humanizer.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.Common.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.ClientModel.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.CodeDom.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Text.Json.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\X.PagedList.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.csproj.AssemblyReference.cache
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.AssemblyInfoInputs.cache
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.AssemblyInfo.cs
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.csproj.CoreCompileInputs.cache
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.MvcApplicationPartsAssemblyInfo.cs
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.MvcApplicationPartsAssemblyInfo.cache
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.RazorAssemblyInfo.cache
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.RazorAssemblyInfo.cs
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.sourcelink.json
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\scopedcss\bundle\NguyenVanKiet_N04_221230890.styles.css
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\scopedcss\projectbundle\NguyenVanKiet_N04_221230890.bundle.scp.css
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets.build.json
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets.development.json
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVa.9D25772A.Up2Date
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\refint\NguyenVanKiet_N04_221230890.dll
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.pdb
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\NguyenVanKiet_N04_221230890.genruntimeconfig.cache
+D:\Document\web-programming\materials\Kiệt\ThiCuoiKi\NguyenVanKiet_N04_221230890\obj\Debug\net8.0\ref\NguyenVanKiet_N04_221230890.dll

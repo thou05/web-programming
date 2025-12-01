@@ -1,4 +1,5 @@
 using banhang.Models;
+using banhang.Models.Authentication;
 using banhang.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -19,7 +20,8 @@ namespace banhang.Controllers
         {
             _logger = logger;
         }
-
+        //[Authentication]        
+        
         public IActionResult Index(int? page)
         {
             int pageSize = 8;
@@ -29,7 +31,7 @@ namespace banhang.Controllers
             return View(lst);
         }
 
-
+        //[Authentication]   
         public IActionResult SanPhamTheoLoai(String maloai, int? page)
         {
             int pageSize = 8;

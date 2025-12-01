@@ -1,0 +1,43 @@
+﻿@model IEnumerable<PhanLoaiPhu>
+<style>
+    img {
+        width: 100%; /* Đảm bảo hình ảnh chiếm toàn bộ chiều rộng */
+        height: 200px; /* Thiết lập chiều cao cố định */
+        object-fit: cover; /* Cắt hình ảnh để giữ tỷ lệ khung hình */
+    }
+</style>
+@foreach (var item in Model)
+{
+    var getUrl = "https://localhost:7186/api/SanPham/" + item.MaPhanLoaiPhu.Trim();
+    <li><a style="cursor:pointer" onclick="showSanPhamByPhanLoaiPhu('@getUrl')">@item.TenPhanLoaiPhu</a></li>
+}
+<script>
+    function showSanPhamByPhanLoaiPhu(getUrl) {
+        var str = '';
+        $.ajax({
+            type: 'GET',
+            url: getUrl,
+            dataType: 'json',
+            success: function (data) {
+                $.each(data, function (key, val) {
+                    str += '<div class="col-lg-3 mb-4 text-center">';
+                    str += '    <div class="product-entry border">';
+                    str += '        <a href="/Home/ChiTietSanPham/' + $.trim(val.maSanPham) + '" class="prod-img">';
+                    str += '            <img src="../Images/' + $.trim(val.anhDaiDien) + '" class="img-fluid" alt="Product Image">';
+                    str += '        </a>';
+                    str += '        <div class="desc">';
+                    str += '            <h2><a href="/Home/ChiTietSanPham/' + $.trim(val.maSanPham) + '">' + $.trim(val.tenSanPham) + '</a></h2>';
+                    str += '            <span class="price">' + $.trim(val.donGiaBanNhoNhat).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",") + ' đ</span>';
+                    str += '        </div>';
+                    str += '    </div>';
+                    str += '</div>';
+                });
+                $('#displayData').html(str);
+            },
+            error: function (xhr) {
+                alert(xhr.responseText);
+            }
+        });
+    }
+</script>
+

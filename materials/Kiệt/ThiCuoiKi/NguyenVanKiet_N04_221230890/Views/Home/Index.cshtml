@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutMuoi.cshtml";
+}
+@model List<SanPham>
+@if (TempData["ThongBao"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["ThongBao"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@foreach (var item in Model)
+{
+	<div class="col-lg-3 mb-4 text-center">
+		<div class="product-entry border">
+			<a href="@Url.Action("ChiTietSanPham", "Home", new { id = item.MaSanPham })" class="prod-img">
+				<img src="~/Images/@item.AnhDaiDien.Trim()" class="img-fluid" alt="Free html5 bootstrap 4 template">
+			</a>
+			<div class="desc">
+				<h2><a href="@Url.Action("ChiTietSanPham", "Home", new { id = item.MaSanPham })">@item.TenSanPham</a></h2>
+				<span class="price">@item.DonGiaBanNhoNhat.Value.ToString("N0") đ</span>
+			</div>
+		</div>
+	</div>
+}
+

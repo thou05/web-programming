@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,6 +47,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
             },
             {
               "$type": "Document",
@@ -58,8 +62,7 @@
               "RelativeToolTip": "day06-annotation\\Views\\User\\UserAnnotation.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T01:42:27.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T01:42:27.964Z"
             },
             {
               "$type": "Document",
@@ -71,8 +74,7 @@
               "RelativeToolTip": "day06-annotation\\Views\\User\\UserManualValid.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T01:25:33.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T01:25:33.108Z"
             },
             {
               "$type": "Document",
@@ -84,8 +86,7 @@
               "RelativeToolTip": "day06-annotation\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T01:21:56.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T01:21:56.934Z"
             },
             {
               "$type": "Document",
@@ -110,8 +111,7 @@
               "RelativeToolTip": "day06-annotation\\Views\\User\\UserManualValidOther.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T01:38:55.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T01:38:55.607Z"
             },
             {
               "$type": "Document",
@@ -123,8 +123,7 @@
               "RelativeToolTip": "day06-annotation\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T01:42:41.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T01:42:41.137Z"
             },
             {
               "$type": "Document",
@@ -136,12 +135,7 @@
               "RelativeToolTip": "day06-annotation\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T01:17:43.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "WhenOpened": "2025-09-26T01:17:43.99Z"
             }
           ]
         }

@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "NguyenVanKiet_N04_221230890.Controllers.SanPhamController",
+    "Method": "GetAllPhanLoaiPhu",
+    "RelativePath": "api/SanPham",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[NguyenVanKiet_N04_221230890.ViewModels.SanPhamTheoPhanLoaiPhu, NguyenVanKiet_N04_221230890, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "NguyenVanKiet_N04_221230890.Controllers.SanPhamController",
+    "Method": "GetAllSanPhamByPhanLoaiPhu",
+    "RelativePath": "api/SanPham/{maphanloaiphu}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "maphanloaiphu",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[NguyenVanKiet_N04_221230890.ViewModels.SanPhamTheoPhanLoaiPhu, NguyenVanKiet_N04_221230890, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

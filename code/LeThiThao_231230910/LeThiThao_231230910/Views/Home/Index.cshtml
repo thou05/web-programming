@@ -1,0 +1,44 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/LeThiThao_Layout.cshtml";
+}
+
+@model IEnumerable<LeThiThao_231230910.Models.HangHoa>
+
+<div class="content">
+	<!-- Begin New Product -->
+	<div class="content_top">
+		<div class="heading">
+			<h3>Lê Thị Thảo</h3>
+		</div>
+		<div class="see">
+			<p><a href="#">See all Products</a></p>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="section group" id="content-product">
+        <partial name="LeThiThao_ProductList" model="Model" />
+	</div>
+	<!-- End New Product -->
+
+</div>
+
+@section Scripts {
+    <script>
+        // Đây là đoạn script cho Câu 4 (AJAX)
+        $(document).ready(function () {
+            $(".ajax-link").click(function (e) {
+                e.preventDefault();
+                var id = $(this).data("id");
+                $.ajax({
+                    url: "/Home/GetProductsByLoai", // Kiểm tra lại tên Action trong Controller
+                    data: { maLoai: id },
+                    success: function (response) {
+                        // Đổ dữ liệu mới vào div có id="content-product"
+                        $("#content-product").html(response);
+                    }
+                });
+            });
+        });
+    </script>
+}

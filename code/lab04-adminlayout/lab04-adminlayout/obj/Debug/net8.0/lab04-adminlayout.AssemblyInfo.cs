@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab04-adminlayout")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99399e03df5f48977629e6ab28f553a5e43b1f73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a5f938213e484f6e904f0d80c6c999c99851be2")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab04-adminlayout")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab04-adminlayout")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

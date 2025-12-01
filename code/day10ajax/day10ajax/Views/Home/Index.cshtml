@@ -1,0 +1,80 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Thao Le</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+    <div>
+        <label for="txtFrom">From</label>
+        <input type="text" name="txtFrom" id="txtFrom" value="Le Thao"/>
+    </div>
+    <input type="button" value=" >> "/>
+    <div>
+        <label for="txtTo">To</label>
+        <input type="text" name="txtTo" id="txtTo" value="Thao"/>
+    </div>
+</div>
+
+
+<div>
+    <h2>Choose color</h2>
+    <div class="btn">
+        <button data-value="red">Red</button>
+        <button data-value="blue">Blue</button>
+        <button data-value="yellow">Yellow</button>
+        <button data-value="purple">Purple</button>
+        <button data-value="green">Green</button>
+    </div>
+    <p>
+        I had recently read The Phantom Tollbooth, where a kid in the real world crosses a magic threshold and enters a cartoon world. This felt like that. I wanted more.
+    </p>
+</div>
+
+
+
+@section ThaoScripts{
+    <script>
+        $(document).ready(function(){
+            console.log('Running...');
+            $('input[type="button"]').click(function(){
+                console.log('clicked...');
+
+                //lay du lieu tu form
+                let valFrom = $('#txtFrom').val();
+                let txtValFrom = $('label[for="txtFrom"]').html();
+                // let txtValFrom = $('label[for="txtFrom"]').text();
+
+                $('label[for="txtTo"]').html(txtValFrom);
+                $('#txtTo').val(valFrom);
+            })
+
+            $('input[type="text"]').keyup(function(){
+                let valFrom = $(this).val();
+                // $('#txtTo').val(valFrom);
+                $(this).parent().siblings('div').children('input[type="text"]').val(valFrom);
+            })
+        })
+    </script>
+
+    <script>
+        $(document).ready(function(){
+            $('.btn button').each(function(){
+                // let valColor = $(this).attr('data-value');
+                // $(this).css({
+                //     'color': valColor,
+                //     'width': '10rem',
+                //     'padding': '1rem',
+                //     'background': 'pink',
+                // }).click(function(){
+                //     $('p').css('color', valColor);
+                // })
+
+                $(this).click(function(){
+                     $('p').css('color', $(this).attr('data-value'));
+                })
+            })
+        })
+    </script>
+}

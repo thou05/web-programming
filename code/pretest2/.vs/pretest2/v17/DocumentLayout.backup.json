@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\web-programming\\code\\pretest2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|d:\\document\\web-programming\\code\\pretest2\\pretest2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|solutionrelative:pretest2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|d:\\document\\web-programming\\code\\pretest2\\pretest2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|solutionrelative:pretest2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|d:\\document\\web-programming\\code\\pretest2\\pretest2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|solutionrelative:pretest2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|d:\\document\\web-programming\\code\\pretest2\\pretest2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|solutionrelative:pretest2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|d:\\document\\web-programming\\code\\pretest2\\pretest2\\views\\shared\\lethithao_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|solutionrelative:pretest2\\views\\shared\\lethithao_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|d:\\document\\web-programming\\code\\pretest2\\pretest2\\views\\shared\\components\\loaihangmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|solutionrelative:pretest2\\views\\shared\\components\\loaihangmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|d:\\document\\web-programming\\code\\pretest2\\pretest2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|solutionrelative:pretest2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|d:\\document\\web-programming\\code\\pretest2\\pretest2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|solutionrelative:pretest2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|d:\\document\\web-programming\\code\\pretest2\\pretest2\\viewcomponents\\loaihangmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|solutionrelative:pretest2\\viewcomponents\\loaihangmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|d:\\document\\web-programming\\code\\pretest2\\pretest2\\models\\qlhanghoacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|solutionrelative:pretest2\\models\\qlhanghoacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|d:\\document\\web-programming\\code\\pretest2\\pretest2\\views\\shared\\lethithao_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|solutionrelative:pretest2\\views\\shared\\lethithao_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|d:\\document\\web-programming\\code\\pretest2\\pretest2\\views\\shared\\lethithao_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|solutionrelative:pretest2\\views\\shared\\lethithao_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|d:\\document\\web-programming\\code\\pretest2\\pretest2\\views\\shared\\lethithao_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|solutionrelative:pretest2\\views\\shared\\lethithao_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|d:\\document\\web-programming\\code\\pretest2\\pretest2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{406DB54E-45DB-4EFD-9451-3F885F8B509F}|pretest2\\pretest2.csproj|solutionrelative:pretest2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "pretest2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "pretest2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T15:36:06.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "pretest2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "pretest2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T15:36:03.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Views\\Shared\\Components\\LoaiHangMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "pretest2\\Views\\Shared\\Components\\LoaiHangMenu\\Default.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Views\\Shared\\Components\\LoaiHangMenu\\Default.cshtml",
+              "RelativeToolTip": "pretest2\\Views\\Shared\\Components\\LoaiHangMenu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T07:21:50.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\appsettings.json",
+              "RelativeDocumentMoniker": "pretest2\\appsettings.json",
+              "ToolTip": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\appsettings.json",
+              "RelativeToolTip": "pretest2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-30T07:17:43.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Program.cs",
+              "RelativeDocumentMoniker": "pretest2\\Program.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Program.cs",
+              "RelativeToolTip": "pretest2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:17:41.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoaiHangMenuViewComponent.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\ViewComponents\\LoaiHangMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "pretest2\\ViewComponents\\LoaiHangMenuViewComponent.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\ViewComponents\\LoaiHangMenuViewComponent.cs",
+              "RelativeToolTip": "pretest2\\ViewComponents\\LoaiHangMenuViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:15:49.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QlhangHoaContext.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Models\\QlhangHoaContext.cs",
+              "RelativeDocumentMoniker": "pretest2\\Models\\QlhangHoaContext.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Models\\QlhangHoaContext.cs",
+              "RelativeToolTip": "pretest2\\Models\\QlhangHoaContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T07:14:08.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LeThiThao_Footer.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Views\\Shared\\LeThiThao_Footer.cshtml",
+              "RelativeDocumentMoniker": "pretest2\\Views\\Shared\\LeThiThao_Footer.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Views\\Shared\\LeThiThao_Footer.cshtml",
+              "RelativeToolTip": "pretest2\\Views\\Shared\\LeThiThao_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T07:06:39.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeThiThao_Header.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Views\\Shared\\LeThiThao_Header.cshtml",
+              "RelativeDocumentMoniker": "pretest2\\Views\\Shared\\LeThiThao_Header.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Views\\Shared\\LeThiThao_Header.cshtml",
+              "RelativeToolTip": "pretest2\\Views\\Shared\\LeThiThao_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T07:06:09.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "pretest2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "pretest2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T07:04:52.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "pretest2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "pretest2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T07:04:56.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LeThiThao_Product.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Views\\Shared\\LeThiThao_Product.cshtml",
+              "RelativeDocumentMoniker": "pretest2\\Views\\Shared\\LeThiThao_Product.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Views\\Shared\\LeThiThao_Product.cshtml",
+              "RelativeToolTip": "pretest2\\Views\\Shared\\LeThiThao_Product.cshtml",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAowI4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T07:07:08.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "pretest2\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "pretest2\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T07:04:53.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LeThiThao_Layout.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Views\\Shared\\LeThiThao_Layout.cshtml",
+              "RelativeDocumentMoniker": "pretest2\\Views\\Shared\\LeThiThao_Layout.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\pretest2\\pretest2\\Views\\Shared\\LeThiThao_Layout.cshtml",
+              "RelativeToolTip": "pretest2\\Views\\Shared\\LeThiThao_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T07:04:16.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1038,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

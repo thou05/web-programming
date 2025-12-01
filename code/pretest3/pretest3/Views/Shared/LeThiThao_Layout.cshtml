@@ -1,0 +1,179 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - pretest3</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/pretest3.styles.css" asp-append-version="true" />
+    <link href="~/css/style.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body>
+
+	<div class="wrap">
+		<!-- Begin Header -->
+		<partial name="LeThiThao_Header"/>
+		<!-- End Header -->
+		<!-- Begin Main -->
+		<div class="main">
+			<div class="content">
+				@RenderBody()
+				<!-- Begin New Product -->
+				
+				<!-- End New Product -->
+			
+			</div>
+		</div>
+		<!-- End Main -->
+	</div>
+	<!-- End Wrap -->
+    <!-- Begin Footer -->
+    <partial name="LeThiThao_Footer" />
+
+    <!-- End Footer -->
+   
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+	<script>
+		$(document).ready(function(){
+			console.log("running...");
+			$('.menu ul').html('');
+			item = '<li class="active"><a href="/" data-id="0">Lê Thị Thảo</a></li>';
+			$.ajax({
+				url: 'home/lttloadloaihang',
+				dataType: 'json',
+				success: function(res){
+                    console.log(res);
+					res.forEach(row => {
+						item += `<li><a href="#" data-id="${row.maLoai}">${row.tenLoai}</a></li>`
+					});
+					item += '</ul>';
+					$('.menu ul').html(item);
+				}
+			});
+		});
+	</script>
+
+	<script>
+		$(document).ready(function(){
+			hanghoas = [];
+            $('.content .section').html('');
+			let itemBox = ``;
+			$.ajax({
+				url: 'home/LttHangHoaByLoai',
+				dataType: 'json',
+				success: function(res){
+					console.log(res);
+					hanghoas = res;
+					hanghoas.forEach(item => {
+						itemBox += `
+							<div class="grid_1_of_4 images_1_of_4">
+								<a href="preview.html"><img src="images/${item.anh}" alt="" /></a>
+								<h2>${item.tenHang}</h2>
+								<div class="price-details">
+									<div class="price-number">
+										<p><span class="rupees">${item.gia}</span></p>
+									</div>
+									<div class="add-cart">
+										<h4><a href="preview.html">Add to Cart</a></h4>
+									</div>
+									<div class="clear"></div>
+								</div>
+							</div>
+						`
+					})
+					$('.content .section').html(itemBox);
+					
+				}
+			});
+
+		});
+	</script>
+		
+	<script>
+		$(document).on('click', '.menu ul li a', function(e){
+			e.preventDefault();
+			let maLoai = $(this).attr('data-id');
+			let data = hanghoas.filter(x => x.maLoai == maLoai);
+			if(maLoai == "0"){
+				data = hanghoas;
+			}
+			$('.content .section').html('');
+			let itemBox = ``;
+			data.forEach(item => {
+				itemBox += `
+				<div class="grid_1_of_4 images_1_of_4">
+					<a href="preview.html"><img src="images/${item.anh}" alt="" /></a>
+					<h2>${item.tenHang}</h2>
+					<div class="price-details">
+						<div class="price-number">
+							<p><span class="rupees">${item.gia}</span></p>
+						</div>
+						<div class="add-cart">
+							<h4><a href="preview.html">Add to Cart</a></h4>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				`
+			})
+			$('.content .section').html(itemBox);
+
+		});
+	</script>
+
+	<script>
+			$(document).ready(function () {
+
+			// Search khi bấm nút
+			$('#btnSearch').click(function () {
+				SearchByName();
+			});
+
+			// Search realtime khi gõ
+			$('#txtSearch').keyup(function () {
+				SearchByName();
+			});
+
+		});
+
+		function SearchByName() {
+			let keyword = $('#txtSearch').val();
+
+			$.ajax({
+				url: '/Home/LttSearch',
+				data: { keyword: keyword },
+				dataType: 'json',
+				success: function (res) {
+					let html = '';
+
+					res.forEach(item => {
+						html += `
+							<div class="grid_1_of_4 images_1_of_4">
+								<a href="preview.html"><img src="images/${item.anh}" alt="" /></a>
+								<h2>${item.tenHang}</h2>
+								<div class="price-details">
+									<div class="price-number">
+										<p><span class="rupees">${item.gia}</span></p>
+									</div>
+									<div class="add-cart">
+										<h4><a href="preview.html">Add to Cart</a></h4>
+									</div>
+									<div class="clear"></div>
+								</div>
+							</div>
+						`;
+					});
+
+					$('.content .section').html(html);
+				}
+			});
+		}
+	</script>
+</body>
+</html>

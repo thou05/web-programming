@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document\\web-programming\\code\\banhangvali2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Document\\web-programming\\code\\pretest3\\pretest3\\Views\\Shared\\LeThiThao_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\views\\shared\\lethithao_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\views\\shared\\lethithao_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\views\\shared\\lethithao_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\views\\shared\\lethithao_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\views\\shared\\lethithao_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\views\\shared\\lethithao_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\views\\shared\\lethithao_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\views\\shared\\lethithao_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\models\\tloaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\models\\tloaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\models\\tdanhmucsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\models\\tdanhmucsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\mixitup.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\wwwroot\\js\\mixitup.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\jquery-ui.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\wwwroot\\js\\jquery-ui.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\jquery-3.3.1.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\wwwroot\\js\\jquery-3.3.1.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\jquery.slicknav.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\wwwroot\\js\\jquery.slicknav.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\jquery.nice-select.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\wwwroot\\js\\jquery.nice-select.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\wwwroot\\js\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\owl.carousel.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\wwwroot\\js\\owl.carousel.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|d:\\document\\web-programming\\code\\banhangvali2\\banhangvali2\\models\\qlbanvalicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42FEB0F0-1962-4A0E-9B4B-4ACB94760AF5}|banhangvali2\\banhangvali2.csproj|solutionrelative:banhangvali2\\models\\qlbanvalicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeThiThao_Layout.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest3\\pretest3\\Views\\Shared\\LeThiThao_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\pretest3\\pretest3\\Views\\Shared\\LeThiThao_Layout.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\pretest3\\pretest3\\Views\\Shared\\LeThiThao_Layout.cshtml",
+              "RelativeToolTip": "..\\pretest3\\pretest3\\Views\\Shared\\LeThiThao_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T11:08:58.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeThiThao_Layout.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Views\\Shared\\LeThiThao_Layout.cshtml",
+              "RelativeDocumentMoniker": "banhangvali2\\Views\\Shared\\LeThiThao_Layout.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Views\\Shared\\LeThiThao_Layout.cshtml",
+              "RelativeToolTip": "banhangvali2\\Views\\Shared\\LeThiThao_Layout.cshtml",
+              "ViewState": "AgIAAMgBAAAAAAAAAAAswNsBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T02:08:12.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "banhangvali2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "banhangvali2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAHcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T02:15:52.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "banhangvali2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "banhangvali2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwEkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T02:33:01.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "banhangvali2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "banhangvali2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T02:08:02.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeThiThao_Category.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Views\\Shared\\LeThiThao_Category.cshtml",
+              "RelativeDocumentMoniker": "banhangvali2\\Views\\Shared\\LeThiThao_Category.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Views\\Shared\\LeThiThao_Category.cshtml",
+              "RelativeToolTip": "banhangvali2\\Views\\Shared\\LeThiThao_Category.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T02:24:34.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeThiThao_Footer.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Views\\Shared\\LeThiThao_Footer.cshtml",
+              "RelativeDocumentMoniker": "banhangvali2\\Views\\Shared\\LeThiThao_Footer.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Views\\Shared\\LeThiThao_Footer.cshtml",
+              "RelativeToolTip": "banhangvali2\\Views\\Shared\\LeThiThao_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T02:22:31.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LeThiThao_Header.cshtml",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Views\\Shared\\LeThiThao_Header.cshtml",
+              "RelativeDocumentMoniker": "banhangvali2\\Views\\Shared\\LeThiThao_Header.cshtml",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Views\\Shared\\LeThiThao_Header.cshtml",
+              "RelativeToolTip": "banhangvali2\\Views\\Shared\\LeThiThao_Header.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T02:21:52.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TLoaiSp.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Models\\TLoaiSp.cs",
+              "RelativeDocumentMoniker": "banhangvali2\\Models\\TLoaiSp.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Models\\TLoaiSp.cs",
+              "RelativeToolTip": "banhangvali2\\Models\\TLoaiSp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T06:19:58.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TDanhMucSp.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Models\\TDanhMucSp.cs",
+              "RelativeDocumentMoniker": "banhangvali2\\Models\\TDanhMucSp.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Models\\TDanhMucSp.cs",
+              "RelativeToolTip": "banhangvali2\\Models\\TDanhMucSp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T06:19:50.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main.js",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "banhangvali2\\wwwroot\\js\\main.js",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "banhangvali2\\wwwroot\\js\\main.js",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-01T06:09:19.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "mixitup.min.js",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\mixitup.min.js",
+              "RelativeDocumentMoniker": "banhangvali2\\wwwroot\\js\\mixitup.min.js",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\mixitup.min.js",
+              "RelativeToolTip": "banhangvali2\\wwwroot\\js\\mixitup.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-01T06:09:17.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "jquery-ui.min.js",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\jquery-ui.min.js",
+              "RelativeDocumentMoniker": "banhangvali2\\wwwroot\\js\\jquery-ui.min.js",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\jquery-ui.min.js",
+              "RelativeToolTip": "banhangvali2\\wwwroot\\js\\jquery-ui.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-01T06:09:17.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "jquery-3.3.1.min.js",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\jquery-3.3.1.min.js",
+              "RelativeDocumentMoniker": "banhangvali2\\wwwroot\\js\\jquery-3.3.1.min.js",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\jquery-3.3.1.min.js",
+              "RelativeToolTip": "banhangvali2\\wwwroot\\js\\jquery-3.3.1.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-01T06:09:16.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "jquery.slicknav.js",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\jquery.slicknav.js",
+              "RelativeDocumentMoniker": "banhangvali2\\wwwroot\\js\\jquery.slicknav.js",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\jquery.slicknav.js",
+              "RelativeToolTip": "banhangvali2\\wwwroot\\js\\jquery.slicknav.js",
+              "ViewState": "AgIAACoCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-01T06:09:07.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "jquery.nice-select.min.js",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\jquery.nice-select.min.js",
+              "RelativeDocumentMoniker": "banhangvali2\\wwwroot\\js\\jquery.nice-select.min.js",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\jquery.nice-select.min.js",
+              "RelativeToolTip": "banhangvali2\\wwwroot\\js\\jquery.nice-select.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-01T06:09:06.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "bootstrap.min.js",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\bootstrap.min.js",
+              "RelativeDocumentMoniker": "banhangvali2\\wwwroot\\js\\bootstrap.min.js",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\bootstrap.min.js",
+              "RelativeToolTip": "banhangvali2\\wwwroot\\js\\bootstrap.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-01T06:09:05.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "owl.carousel.min.js",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\owl.carousel.min.js",
+              "RelativeDocumentMoniker": "banhangvali2\\wwwroot\\js\\owl.carousel.min.js",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\wwwroot\\js\\owl.carousel.min.js",
+              "RelativeToolTip": "banhangvali2\\wwwroot\\js\\owl.carousel.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-01T06:09:03.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QlbanValiContext.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Models\\QlbanValiContext.cs",
+              "RelativeDocumentMoniker": "banhangvali2\\Models\\QlbanValiContext.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Models\\QlbanValiContext.cs",
+              "RelativeToolTip": "banhangvali2\\Models\\QlbanValiContext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T02:31:16.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\appsettings.json",
+              "RelativeDocumentMoniker": "banhangvali2\\appsettings.json",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\appsettings.json",
+              "RelativeToolTip": "banhangvali2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T02:31:26.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Program.cs",
+              "RelativeDocumentMoniker": "banhangvali2\\Program.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\banhangvali2\\banhangvali2\\Program.cs",
+              "RelativeToolTip": "banhangvali2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T02:31:27.168Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1038,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

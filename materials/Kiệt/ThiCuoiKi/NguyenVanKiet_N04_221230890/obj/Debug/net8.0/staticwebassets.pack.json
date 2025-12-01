@@ -1,0 +1,1065 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\NguyenVanKiet_N04_221230890.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NguyenVanKiet_N04_221230890.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Images\\00001.jpg",
+      "PackagePath": "staticwebassets\\Images\\00001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Images\\00002.jpg",
+      "PackagePath": "staticwebassets\\Images\\00002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Images\\00003.jpg",
+      "PackagePath": "staticwebassets\\Images\\00003.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Images\\00004.jpg",
+      "PackagePath": "staticwebassets\\Images\\00004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Images\\00005.jpg",
+      "PackagePath": "staticwebassets\\Images\\00005.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Images\\00006.jpg",
+      "PackagePath": "staticwebassets\\Images\\00006.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Images\\00007.jpg",
+      "PackagePath": "staticwebassets\\Images\\00007.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Images\\00008.jpg",
+      "PackagePath": "staticwebassets\\Images\\00008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Images\\00009.jpg",
+      "PackagePath": "staticwebassets\\Images\\00009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Images\\00010.jpg",
+      "PackagePath": "staticwebassets\\Images\\00010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Images\\00011.jpg",
+      "PackagePath": "staticwebassets\\Images\\00011.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Images\\00012.jpg",
+      "PackagePath": "staticwebassets\\Images\\00012.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\about.html",
+      "PackagePath": "staticwebassets\\Muoi\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\add-to-wishlist.html",
+      "PackagePath": "staticwebassets\\Muoi\\add-to-wishlist.html"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\cart.html",
+      "PackagePath": "staticwebassets\\Muoi\\cart.html"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\checkout.html",
+      "PackagePath": "staticwebassets\\Muoi\\checkout.html"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\contact.html",
+      "PackagePath": "staticwebassets\\Muoi\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Muoi\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\Muoi\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Muoi\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\css\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Muoi\\css\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\css\\css\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\Muoi\\css\\css\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\Muoi\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\Muoi\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\Muoi\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Muoi\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Muoi\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Muoi\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\css\\style.css",
+      "PackagePath": "staticwebassets\\Muoi\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\Muoi\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\bootstrap\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\bootstrap\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\bootstrap\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\bootstrap\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\bootstrap\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\bootstrap\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\bootstrap\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\bootstrap\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\ionicons\\css\\_ionicons.scss",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\ionicons\\css\\_ionicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\fonts\\ionicons\\fonts\\ionicons.woff2",
+      "PackagePath": "staticwebassets\\Muoi\\fonts\\ionicons\\fonts\\ionicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\brand-1.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\brand-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\brand-2.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\brand-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\brand-3.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\brand-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\brand-4.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\brand-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\brand-5.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\brand-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\cover-img-1.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\cover-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\img_bg_1.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\img_bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\img_bg_2.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\img_bg_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\img_bg_3.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\img_bg_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\item-1.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\item-10.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\item-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\item-11.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\item-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\item-12.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\item-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\item-13.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\item-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\item-14.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\item-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\item-15.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\item-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\item-16.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\item-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\item-2.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\item-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\item-3.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\item-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\item-4.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\item-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\item-5.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\item-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\item-6.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\item-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\item-7.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\item-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\item-8.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\item-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\item-9.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\item-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\Muoi\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\loc.png",
+      "PackagePath": "staticwebassets\\Muoi\\images\\loc.png"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\men.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\men.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\person1.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\person1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\person2.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\person2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\person3.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\person3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\images\\women.jpg",
+      "PackagePath": "staticwebassets\\Muoi\\images\\women.jpg"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\index.html",
+      "PackagePath": "staticwebassets\\Muoi\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\aos.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\google_map.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\google_map.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\jquery.countTo.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\jquery.countTo.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\jquery.flexslider-min.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\jquery.flexslider-min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\magnific-popup-options.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\magnific-popup-options.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\main.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\js\\respond.min.js",
+      "PackagePath": "staticwebassets\\Muoi\\js\\respond.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\men.html",
+      "PackagePath": "staticwebassets\\Muoi\\men.html"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\order-complete.html",
+      "PackagePath": "staticwebassets\\Muoi\\order-complete.html"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\prepros-6.config",
+      "PackagePath": "staticwebassets\\Muoi\\prepros-6.config"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\product-detail.html",
+      "PackagePath": "staticwebassets\\Muoi\\product-detail.html"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\Muoi\\sass\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\Muoi\\women.html",
+      "PackagePath": "staticwebassets\\Muoi\\women.html"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\MODERN14\\OneDrive - University of Transport and Communications\\Kì_5\\LapTrinhWeb\\OnThi\\Kiệt\\ThiCuoiKi\\NguyenVanKiet_N04_221230890\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.NguyenVanKiet_N04_221230890.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.NguyenVanKiet_N04_221230890.props",
+      "PackagePath": "build\\NguyenVanKiet_N04_221230890.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.NguyenVanKiet_N04_221230890.props",
+      "PackagePath": "buildMultiTargeting\\NguyenVanKiet_N04_221230890.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.NguyenVanKiet_N04_221230890.props",
+      "PackagePath": "buildTransitive\\NguyenVanKiet_N04_221230890.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
