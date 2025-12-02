@@ -1,0 +1,25 @@
+﻿
+@model IEnumerable<LeThiThao_231230910.Models.Chuyen>
+
+<div class="card w-100">
+    <div class="card-body p-4">
+        <div class="table-responsive" data-simplebar>
+            <table class="table table-borderless align-middle text-nowrap">
+                <thead>
+                    <tr>
+                        <th>Chuyến xe</th>
+                        <th>Ngày</th>
+                        <th>Giờ</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    <partial name="Main" model="Model" />
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<a href="/create" class="btn btn-primary">Create</a>

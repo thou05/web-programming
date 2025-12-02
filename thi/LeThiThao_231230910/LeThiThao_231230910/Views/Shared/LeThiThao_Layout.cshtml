@@ -1,0 +1,103 @@
+﻿
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Spike2512V1</title>
+    <link rel="shortcut icon" type="image/png" href="images/logos/favicon.png" />
+    <link rel="stylesheet" href="css/styles.min.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/LeThiThao_231230910.styles.css" asp-append-version="true" />
+</head>
+
+<body>
+    <div class="page-wrapper" id="main-wrapper" data-layout="vertical" data-navbarbg="skin6" data-sidebartype="full"
+         data-sidebar-position="fixed" data-header-position="fixed">
+        <!-- LeftSidebar Start -->
+        <partial name="LeftSideBar" />
+        <!--  LeftSidebar End -->
+        <div class="body-wrapper">
+            <!--  Header Start -->
+            <partial name="Header" />
+            <!--  Header End -->
+            <!-- Main Start -->
+            <main id="main" class="container-fluid">
+                @RenderBody();
+            </main>
+            <!-- Main End -->
+            <!-- Footer Start -->
+            <partial name="Footer" />
+            <!-- Footer End -->
+        </div>
+    </div>
+    <script src="libs/jquery/dist/jquery.min.js"></script>
+    <script src="libs/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/app.min.js"></script>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+    @* <script>
+        let currentSoXe = "";
+            $("#filterSoXe").on("change", function () {
+            currentSoXe = $(this).val();
+
+            loadPage(1); // luôn load lại từ trang 1
+            });
+
+            function loadPage(page) {
+
+            $.ajax({
+                url: "/Home/PagingChuyen",
+                type: "GET",
+                data: {
+                    page: page,
+                    pageSize: 4,
+                    soXe: currentSoXe     // 🔥 TRUYỀN SỐ XE ĐANG LỌC
+                },
+                success: function (res) {
+
+                    $("#main-list").empty();
+
+                    $.each(res.data, function (i, item) {
+
+                        let row = `
+                            <tr>
+                                <td>
+                                    <div class="d-flex align-items-center">
+                                        <img src="/images/cars/${item.anh}" width="50" class="rounded-circle" />
+                                        <div class="ms-2">
+                                            <h6 class="mb-1 fw-bolder">${item.tenTuyen}</h6>
+                                            <p class="fs-3 mb-0">${item.bienSo}</p>
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>${formatDate(item.ngay)}</td>
+                                <td class="text-success">${item.gio}</td>
+                                <td>Edit | Delete</td>
+                            </tr>
+                        `;
+
+                        $("#main-list").append(row);
+                    });
+                }
+            });
+        }
+                $("input[name=page]").on("change", function () {
+
+            let page = $(this).data("page");
+
+            loadPage(page);   // gọi hàm chung
+        });
+
+    </script> *@
+
+</body>
+
+</html>

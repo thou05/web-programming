@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Document\\web-programming\\code\\pretest3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D2413988-26DF-484E-B077-0CA8117F5F96}|pretest3\\pretest3.csproj|d:\\document\\web-programming\\code\\pretest3\\pretest3\\views\\shared\\lethithao_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2413988-26DF-484E-B077-0CA8117F5F96}|pretest3\\pretest3.csproj|solutionrelative:pretest3\\views\\shared\\lethithao_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2413988-26DF-484E-B077-0CA8117F5F96}|pretest3\\pretest3.csproj|d:\\document\\web-programming\\code\\pretest3\\pretest3\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2413988-26DF-484E-B077-0CA8117F5F96}|pretest3\\pretest3.csproj|solutionrelative:pretest3\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2413988-26DF-484E-B077-0CA8117F5F96}|pretest3\\pretest3.csproj|d:\\document\\web-programming\\code\\pretest3\\pretest3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2413988-26DF-484E-B077-0CA8117F5F96}|pretest3\\pretest3.csproj|solutionrelative:pretest3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +19,12 @@
       "RelativeMoniker": "D:0:0:{D2413988-26DF-484E-B077-0CA8117F5F96}|pretest3\\pretest3.csproj|solutionrelative:pretest3\\models\\tblaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2413988-26DF-484E-B077-0CA8117F5F96}|pretest3\\pretest3.csproj|d:\\document\\web-programming\\code\\pretest3\\pretest3\\views\\shared\\lethithao_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2413988-26DF-484E-B077-0CA8117F5F96}|pretest3\\pretest3.csproj|solutionrelative:pretest3\\views\\shared\\lethithao_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D2413988-26DF-484E-B077-0CA8117F5F96}|pretest3\\pretest3.csproj|d:\\document\\web-programming\\code\\pretest3\\pretest3\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2413988-26DF-484E-B077-0CA8117F5F96}|pretest3\\pretest3.csproj|solutionrelative:pretest3\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2413988-26DF-484E-B077-0CA8117F5F96}|pretest3\\pretest3.csproj|d:\\document\\web-programming\\code\\pretest3\\pretest3\\views\\shared\\lethithao_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2413988-26DF-484E-B077-0CA8117F5F96}|pretest3\\pretest3.csproj|solutionrelative:pretest3\\views\\shared\\lethithao_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2413988-26DF-484E-B077-0CA8117F5F96}|pretest3\\pretest3.csproj|d:\\document\\web-programming\\code\\pretest3\\pretest3\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2413988-26DF-484E-B077-0CA8117F5F96}|pretest3\\pretest3.csproj|solutionrelative:pretest3\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2413988-26DF-484E-B077-0CA8117F5F96}|pretest3\\pretest3.csproj|d:\\document\\web-programming\\code\\pretest3\\pretest3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -98,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,32 +114,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "LeThiThao_Layout.cshtml",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest3\\pretest3\\Views\\Shared\\LeThiThao_Layout.cshtml",
               "RelativeDocumentMoniker": "pretest3\\Views\\Shared\\LeThiThao_Layout.cshtml",
               "ToolTip": "D:\\Document\\web-programming\\code\\pretest3\\pretest3\\Views\\Shared\\LeThiThao_Layout.cshtml",
               "RelativeToolTip": "pretest3\\Views\\Shared\\LeThiThao_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-30T10:40:59.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "HangHoa.cs",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest3\\pretest3\\Models\\HangHoa.cs",
               "RelativeDocumentMoniker": "pretest3\\Models\\HangHoa.cs",
               "ToolTip": "D:\\Document\\web-programming\\code\\pretest3\\pretest3\\Models\\HangHoa.cs",
               "RelativeToolTip": "pretest3\\Models\\HangHoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T15:22:01.683Z"
+              "WhenOpened": "2025-11-30T15:22:01.683Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest3\\pretest3\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "pretest3\\Views\\Home\\Create.cshtml",
@@ -147,8 +148,7 @@
               "RelativeToolTip": "pretest3\\Views\\Home\\Create.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T15:36:57.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T15:36:57.248Z"
             },
             {
               "$type": "Document",
@@ -164,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest3\\pretest3\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "pretest3\\Controllers\\HomeController.cs",
@@ -201,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LeThiThao_Header.cshtml",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest3\\pretest3\\Views\\Shared\\LeThiThao_Header.cshtml",
               "RelativeDocumentMoniker": "pretest3\\Views\\Shared\\LeThiThao_Header.cshtml",
@@ -209,8 +209,7 @@
               "RelativeToolTip": "pretest3\\Views\\Shared\\LeThiThao_Header.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-30T10:44:41.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T10:44:41.499Z"
             },
             {
               "$type": "Document",
@@ -226,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TblAccount.cs",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\pretest3\\pretest3\\Models\\TblAccount.cs",
               "RelativeDocumentMoniker": "pretest3\\Models\\TblAccount.cs",
@@ -234,8 +233,7 @@
               "RelativeToolTip": "pretest3\\Models\\TblAccount.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T15:44:50.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-30T15:44:50.617Z"
             },
             {
               "$type": "Document",

@@ -1,49 +1,212 @@
-﻿<!DOCTYPE html>
-<html lang="en">
+﻿<!--
+author: W3layouts
+author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html>
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - test20214v1</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/test20214v1.styles.css" asp-append-version="true" />
-</head>
-<body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">test20214v1</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
+	<title>Online Shopping</title>
+	<!-- for-mobile-apps -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Super Market, Online Shopping" />
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2025 - test20214v1 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+	<!-- //for-mobile-apps -->
+	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<link rel="stylesheet" type="text/css" href="css/jquery-ui-1.css">
+	<!-- font-awesome icons -->
+	<link href="css/font-awesome.css" rel="stylesheet">
+	<!-- //font-awesome icons -->
+	<!-- js -->
+	<script src="js/jquery-1.11.1.min.js"></script>
+	<!-- //js -->
+	@* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> *@
+	<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+	<link rel="stylesheet" href="~/test20214v1.styles.css" asp-append-version="true" />
+</head>
+
+<body>
+	<!-- header -->
+    <partial name="LeThiThao_Header" />
+	<!-- //header -->
+	<!-- main navigation -->
+	<div class="navigation-agileits">
+		<div class="container">
+			<nav class="navbar navbar-default">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header nav_2">
+					<button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				</div>
+				<div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
+					<ul class="nav navbar-nav">
+						<li class="active"><a href="#" class="act">Home</a></li>
+						<!-- Mega Menu -->
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Beverages<b class="caret"></b></a>
+							<ul class="dropdown-menu multi-column columns-3">
+								<div class="row">
+									<div class="multi-gd-img">
+										<ul class="multi-column-dropdown">
+											<h6>Tea & Coeffe</h6>
+											<li><a href="#">Green Tea</a></li>
+											<li><a href="#">Ground Coffee</a></li>
+											<li><a href="#">Herbal Tea</a></li>
+											<li><a href="#">Instant Coffee</a></li>
+											<li><a href="#"> Tea </a></li>
+											<li><a href="#">Tea Bags</a></li>
+										</ul>
+									</div>
+								</div>
+							</ul>
+						</li>
+						<li><a href="#">Gourmet</a></li>
+						<li><a href="#">Offers</a></li>
+						<li><a href="#">Contact</a></li>
+					</ul>
+				</div>
+			</nav>
+		</div>
+	</div>
+	<!-- //main navigation -->
+	<!--- main content --->
+	<div class="products">
+		<div class="container">
+			<!-- left categories -->
+			<div class="col-md-4 products-left">
+				<div class="categories">
+					<h2>Categories</h2>
+					<ul class="cate">
+						<li><a href="#"><i class="fa fa-arrow-right" aria-hidden="true"></i>Fruits And Vegetables</a></li>
+
+						<li><a href="#"><i class="fa fa-arrow-right" aria-hidden="true"></i>Grocery & Staples</a></li>
+
+						<li><a href="#"><i class="fa fa-arrow-right" aria-hidden="true"></i>PersonalCare</a></li>
+					</ul>
+				</div>
+			</div>
+			<!-- /left categories -->
+			<!-- right products grid -->
+            @RenderBody()
+			<!-- right products grid -->
+		</div>
+	</div>
+	<!--- main content --->
+	<!-- footer -->
+	<partial name="LeThiThao_Footer" />
+	<!-- //footer -->
+
+	@* <script src="~/lib/jquery/dist/jquery.min.js"></script> *@
+	<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="~/js/site.js" asp-append-version="true"></script>
+	@await RenderSectionAsync("Scripts", required: false)
+
+	<script>
+
+		function LoadProduct(data){
+			let container = $('.agile_top_brands_grids')
+			container.html('');
+			let itemBox = ``;
+			data.forEach(item => {
+						itemBox += `
+							<div class="col-md-4 top_brand_left">
+								<div class="hover14 column">
+									<div class="agile_top_brand_left_grid">
+										<div class="agile_top_brand_left_grid_pos">
+											<img src="images/offer.png" alt=" " class="img-responsive">
+										</div>
+										<div class="agile_top_brand_left_grid1">
+											<figure>
+												<div class="snipcart-item block">
+													<div class="snipcart-thumb">
+														<a href="single.html"><img title=" " alt=" " src="images/${item.image}"></a>
+														<p>${item.name}</p>
+														<h4>${item.unitPrice} <span>$55.00</span></h4>
+													</div>
+													<div class="snipcart-details top_brand_home_details">
+														<form action="#" method="post">
+															<fieldset>
+																<input type="hidden" name="cmd" value="_cart">
+																<input type="hidden" name="add" value="1">
+																<input type="hidden" name="business" value=" ">
+																<input type="hidden" name="item_name" value="Fortune Sunflower Oil">
+																<input type="hidden" name="amount" value="35.99">
+																<input type="hidden" name="discount_amount" value="1.00">
+																<input type="hidden" name="currency_code" value="USD">
+																<input type="hidden" name="return" value=" ">
+																<input type="hidden" name="cancel_return" value=" ">
+																<input type="submit" name="submit" value="Add to cart" class="button">
+															</fieldset>
+														</form>
+													</div>
+												</div>
+											</figure>
+										</div>
+									</div>
+								</div>
+							</div>
+						`;
+					})
+					container.html(itemBox);
+		}
+
+		$(document).ready(function(){
+			$('#bs-megadropdown-tabs ul').html('');
+			let item = '<li><a href="#" data-id="0">Lê Thị Thảo</a></li>';
+			$.ajax({
+				url: 'home/LttGetNav',
+				dataType: 'json',
+				success: function(res){
+					res.forEach(row => {
+						item += `<li><a href="#" data-id="${row.id}">${row.navNameVn}</a></li>`
+					})
+					$('#bs-megadropdown-tabs ul').html(item);
+				}
+			})
+		});
+
+		$.ajax({
+			url: 'home/LttGetTop3Products',
+			dataType: 'json',
+			success: function(res){
+                LoadProduct(res);
+			}
+		});
+
+		$(document).ready(function(){
+			$('#btnSearch').click(function(){
+				 SearchByName();
+			})
+
+			$('#txtSearch').keyup(function(){
+				SearchByName();
+			})
+		})
+
+		function SearchByName(){
+			let key = $('#txtSearch').val();
+
+			$.ajax({
+				 url: 'home/LttSearch',
+				 data: {keyword: key},
+				 dataType: 'json',
+				 success: function(res){
+					 LoadProduct(res);
+				 }
+			})
+
+		}
+	</script>
+
+	
+
+
 </body>
 </html>

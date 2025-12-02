@@ -11,6 +11,7 @@ public partial class Product
 
     public string Name { get; set; } = null!;
 
+    [Range(101, double.MaxValue, ErrorMessage = "UnitPrice phải là số và lớn hơn 100")]
     public double UnitPrice { get; set; }
 
     public string? Image { get; set; }

@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "D:\\Document\\web-programming\\code\\test20212v1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\views\\shared\\lethithao_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\views\\shared\\lethithao_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\models\\navitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\models\\navitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\models\\onlineshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\models\\onlineshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -47,18 +71,6 @@
       "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\views\\shared\\lethithao_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -85,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\models\\onlineshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\models\\onlineshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,43 +122,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "test20212v1.csproj",
-              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\test20212v1.csproj",
-              "RelativeDocumentMoniker": "test20212v1\\test20212v1.csproj",
-              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\test20212v1.csproj",
-              "RelativeToolTip": "test20212v1\\test20212v1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-01T09:21:01.897Z"
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "test20212v1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "test20212v1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:34:17.84Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "test20212v1\\appsettings.Development.json",
-              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\appsettings.Development.json",
-              "RelativeToolTip": "test20212v1\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-01T09:20:26.017Z"
+              "DocumentIndex": 3,
+              "Title": "NavItem.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\NavItem.cs",
+              "RelativeDocumentMoniker": "test20212v1\\Models\\NavItem.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\NavItem.cs",
+              "RelativeToolTip": "test20212v1\\Models\\NavItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T16:34:16.188Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "test20212v1\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Properties\\launchSettings.json",
-              "RelativeToolTip": "test20212v1\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-01T09:20:09.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Program.cs",
               "RelativeDocumentMoniker": "test20212v1\\Program.cs",
@@ -162,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\appsettings.json",
               "RelativeDocumentMoniker": "test20212v1\\appsettings.json",
@@ -174,20 +172,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LeThiThao_Layout.cshtml",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Shared\\LeThiThao_Layout.cshtml",
               "RelativeDocumentMoniker": "test20212v1\\Views\\Shared\\LeThiThao_Layout.cshtml",
               "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Shared\\LeThiThao_Layout.cshtml",
               "RelativeToolTip": "test20212v1\\Views\\Shared\\LeThiThao_Layout.cshtml",
-              "ViewState": "AgIAAMYAAAAAAAAAAAAswMwAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAswL4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-01T07:24:36.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "LeThiThao_Header.cshtml",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Shared\\LeThiThao_Header.cshtml",
               "RelativeDocumentMoniker": "test20212v1\\Views\\Shared\\LeThiThao_Header.cshtml",
@@ -199,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "test20212v1\\Views\\Home\\Index.cshtml",
@@ -211,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "test20212v1\\Controllers\\HomeController.cs",
@@ -224,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "test20212v1\\Views\\Home\\Create.cshtml",
@@ -236,31 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "test20212v1\\Models\\Customer.cs",
-              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\Customer.cs",
-              "RelativeToolTip": "test20212v1\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T08:50:15.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "test20212v1\\Models\\Order.cs",
-              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\Order.cs",
-              "RelativeToolTip": "test20212v1\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T08:59:12.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "test20212v1\\Models\\OrderDetail.cs",
@@ -268,11 +242,87 @@
               "RelativeToolTip": "test20212v1\\Models\\OrderDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T08:59:33.064Z"
+              "WhenOpened": "2025-12-01T08:59:33.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "test20212v1\\Models\\Customer.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\Customer.cs",
+              "RelativeToolTip": "test20212v1\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:50:15.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "test20212v1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "test20212v1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T09:20:09.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "test20212v1\\Models\\Order.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\Order.cs",
+              "RelativeToolTip": "test20212v1\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T08:59:12.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OnlineShopContext.cs",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\OnlineShopContext.cs",
+              "RelativeDocumentMoniker": "test20212v1\\Models\\OnlineShopContext.cs",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\OnlineShopContext.cs",
+              "RelativeToolTip": "test20212v1\\Models\\OnlineShopContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIA1wB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T07:38:49.589Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "test20212v1\\appsettings.Development.json",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\appsettings.Development.json",
+              "RelativeToolTip": "test20212v1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T09:20:26.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "test20212v1.csproj",
+              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\test20212v1.csproj",
+              "RelativeDocumentMoniker": "test20212v1\\test20212v1.csproj",
+              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\test20212v1.csproj",
+              "RelativeToolTip": "test20212v1\\test20212v1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-01T09:21:01.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "test20212v1\\Views\\Home\\Privacy.cshtml",
@@ -284,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\Product.cs",
               "RelativeDocumentMoniker": "test20212v1\\Models\\Product.cs",
@@ -296,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "LeThiThao_Footer.cshtml",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Shared\\LeThiThao_Footer.cshtml",
               "RelativeDocumentMoniker": "test20212v1\\Views\\Shared\\LeThiThao_Footer.cshtml",
@@ -308,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Customers\\Create.cshtml",
               "RelativeDocumentMoniker": "test20212v1\\Views\\Customers\\Create.cshtml",
@@ -320,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "test20212v1\\Controllers\\CustomersController.cs",
@@ -332,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Customers\\Index.cshtml",
               "RelativeDocumentMoniker": "test20212v1\\Views\\Customers\\Index.cshtml",
@@ -344,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Customers\\Edit.cshtml",
               "RelativeDocumentMoniker": "test20212v1\\Views\\Customers\\Edit.cshtml",
@@ -356,19 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "OnlineShopContext.cs",
-              "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\OnlineShopContext.cs",
-              "RelativeDocumentMoniker": "test20212v1\\Models\\OnlineShopContext.cs",
-              "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Models\\OnlineShopContext.cs",
-              "RelativeToolTip": "test20212v1\\Models\\OnlineShopContext.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAhwB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T07:38:49.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "test20212v1\\Views\\_ViewStart.cshtml",

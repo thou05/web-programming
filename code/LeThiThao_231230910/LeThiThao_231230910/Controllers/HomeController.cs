@@ -39,6 +39,8 @@ namespace LeThiThao_231230910.Controllers
             return PartialView("LeThiThao_ProductList", products);
         }
 
+
+
         [HttpGet]
         [Route("create")]
         public IActionResult Create()

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Document\\web-programming\\code\\test20212v1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\views\\shared\\lethithao_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\views\\shared\\lethithao_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|solutionrelative:test20212v1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB2A03AD-17F4-4802-BD39-DDE54D870CBC}|test20212v1\\test20212v1.csproj|d:\\document\\web-programming\\code\\test20212v1\\test20212v1\\views\\shared\\lethithao_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -98,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -115,15 +115,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "test20212v1",
+              "Title": "test20212v1.csproj",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\test20212v1.csproj",
               "RelativeDocumentMoniker": "test20212v1\\test20212v1.csproj",
               "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\test20212v1.csproj",
               "RelativeToolTip": "test20212v1\\test20212v1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-01T09:21:01.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T09:21:01.897Z"
             },
             {
               "$type": "Document",
@@ -135,8 +134,7 @@
               "RelativeToolTip": "test20212v1\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-01T09:20:26.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T09:20:26.017Z"
             },
             {
               "$type": "Document",
@@ -148,8 +146,7 @@
               "RelativeToolTip": "test20212v1\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAgAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-01T09:20:09.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T09:20:09.357Z"
             },
             {
               "$type": "Document",
@@ -161,8 +158,7 @@
               "RelativeToolTip": "test20212v1\\Program.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T07:38:56.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T07:38:56.794Z"
             },
             {
               "$type": "Document",
@@ -174,12 +170,11 @@
               "RelativeToolTip": "test20212v1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-01T07:38:58.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T07:38:58.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LeThiThao_Layout.cshtml",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Shared\\LeThiThao_Layout.cshtml",
               "RelativeDocumentMoniker": "test20212v1\\Views\\Shared\\LeThiThao_Layout.cshtml",
@@ -200,12 +195,11 @@
               "RelativeToolTip": "test20212v1\\Views\\Shared\\LeThiThao_Header.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T07:25:45.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T07:25:45.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "test20212v1\\Views\\Home\\Index.cshtml",
@@ -213,25 +207,24 @@
               "RelativeToolTip": "test20212v1\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAADMAAAAAAAAAAAAAALMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T07:32:49.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T07:32:49.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "test20212v1\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "test20212v1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAcwFAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwE0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-01T07:43:05.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Document\\web-programming\\code\\test20212v1\\test20212v1\\Views\\Home\\Create.cshtml",
               "RelativeDocumentMoniker": "test20212v1\\Views\\Home\\Create.cshtml",
@@ -239,8 +232,7 @@
               "RelativeToolTip": "test20212v1\\Views\\Home\\Create.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T08:54:12.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T08:54:12.159Z"
             },
             {
               "$type": "Document",
@@ -252,8 +244,7 @@
               "RelativeToolTip": "test20212v1\\Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T08:50:15.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T08:50:15.323Z"
             },
             {
               "$type": "Document",
@@ -265,8 +256,7 @@
               "RelativeToolTip": "test20212v1\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T08:59:12.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T08:59:12.856Z"
             },
             {
               "$type": "Document",
@@ -278,8 +268,7 @@
               "RelativeToolTip": "test20212v1\\Models\\OrderDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T08:59:33.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T08:59:33.064Z"
             },
             {
               "$type": "Document",
@@ -291,8 +280,7 @@
               "RelativeToolTip": "test20212v1\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T08:20:32.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T08:20:32.564Z"
             },
             {
               "$type": "Document",
@@ -304,8 +292,7 @@
               "RelativeToolTip": "test20212v1\\Models\\Product.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAIwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T08:03:37.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T08:03:37.481Z"
             },
             {
               "$type": "Document",
@@ -317,8 +304,7 @@
               "RelativeToolTip": "test20212v1\\Views\\Shared\\LeThiThao_Footer.cshtml",
               "ViewState": "AgIAADwAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T07:28:54.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T07:28:54.293Z"
             },
             {
               "$type": "Document",
@@ -330,8 +316,7 @@
               "RelativeToolTip": "test20212v1\\Views\\Customers\\Create.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T08:54:15.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T08:54:15.026Z"
             },
             {
               "$type": "Document",
@@ -343,8 +328,7 @@
               "RelativeToolTip": "test20212v1\\Controllers\\CustomersController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAwwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T08:50:57.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T08:50:57.253Z"
             },
             {
               "$type": "Document",
@@ -356,8 +340,7 @@
               "RelativeToolTip": "test20212v1\\Views\\Customers\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T08:51:31.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T08:51:31.123Z"
             },
             {
               "$type": "Document",
@@ -369,8 +352,7 @@
               "RelativeToolTip": "test20212v1\\Views\\Customers\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T08:51:30.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T08:51:30.115Z"
             },
             {
               "$type": "Document",
@@ -382,8 +364,7 @@
               "RelativeToolTip": "test20212v1\\Models\\OnlineShopContext.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAhwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T07:38:49.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T07:38:49.589Z"
             },
             {
               "$type": "Document",
@@ -395,8 +376,7 @@
               "RelativeToolTip": "test20212v1\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-01T07:24:29.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T07:24:29.665Z"
             }
           ]
         },

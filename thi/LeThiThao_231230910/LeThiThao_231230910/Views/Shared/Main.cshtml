@@ -1,0 +1,46 @@
+﻿
+
+
+@model IEnumerable<LeThiThao_231230910.Models.Chuyen>
+
+@foreach (var item in Model)
+{
+    <tr>
+        <td>
+            <div class="d-flex align-items-center">
+                <div class="me-4">
+                    <img src="~/images/cars/@item.SoXeNavigation?.Anh"
+                         width="50"
+                         class="rounded-circle"
+                         alt="Ảnh xe" />
+                </div>
+
+                <div>
+                    <h6 class="mb-1 fw-bolder">
+                        @item.MaTuyenNavigation?.TenTuyen
+                    </h6>
+
+                    <p class="fs-3 mb-0">
+                        @item.SoXeNavigation?.SoXe
+                    </p>
+                </div>
+            </div>
+        </td>
+
+        <td>
+            <p class="fs-3 fw-normal mb-0">
+                @item.NgayGio?.ToString("dd/MM/yyyy")
+            </p>
+        </td>
+
+        <td>
+            <p class="fs-3 fw-normal mb-0 text-success">
+                @item.NgayGio?.ToString(@"hh\:mm")
+            </p>
+        </td>
+
+        <td>
+            <span>Edit | Delete</span>
+        </td>
+    </tr>
+}
